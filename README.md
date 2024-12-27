@@ -4,6 +4,8 @@ Welcome my friends and fellas my buds and bluds to the FNF Weekly: Tweakmas sour
 
 If you desire to compile the mod, check "COMPILATION_INFO.txt" in the "projFiles" folder for details on how to compile this repo!
 
--Mod Links-
+-Relevant Links-
 
 Gamebanana: https://gamebanana.com/mods/564715
+
+OG Weekly repository: https://github.com/OrbyyOrbinaut/FNF-Weekly-Public
