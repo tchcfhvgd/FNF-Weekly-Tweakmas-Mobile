@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Team Effort",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Crossknife", "Kreagato", "Cloverderus"],
+        "chart" : ["Kloogybaboogy"],
+        "art" : ["ultraspicyspray", "Louie", "Dollie", "alphalul1"],
+        "code" : ["Lethrial", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

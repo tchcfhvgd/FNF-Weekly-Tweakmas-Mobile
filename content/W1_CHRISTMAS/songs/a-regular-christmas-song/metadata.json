@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "A Regular Christmas Song",
+        "expandBeat" : 24,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Biddle3"],
+        "chart" : ["Kye_VL"],
+        "art" : ["mochadrawss", "Dollie", "KatAnims", "alphalul1"],
+        "code" : ["Lethrial", "OrbyyOrbinaut", "DuskieWhy"],
+        "va" : null
+    }
+}

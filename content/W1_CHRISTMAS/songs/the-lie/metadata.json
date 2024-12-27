@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "The Lie",
+        "expandBeat" : 58,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["niffirg"],
+        "art" : ["KatAnims", "Dollie", "DerpDrawz"],
+        "code" : ["DuskieWhy", "OrbyyOrbinaut"],
+        "va" : null
+    }
+}

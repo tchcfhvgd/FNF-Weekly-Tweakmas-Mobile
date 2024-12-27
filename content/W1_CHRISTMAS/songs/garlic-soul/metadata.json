@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Garlic Soul",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["scrumbo_"],
+        "chart" : ["Srife5", "OrbyyOrbinaut"],
+        "art" : ["alphalul1"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

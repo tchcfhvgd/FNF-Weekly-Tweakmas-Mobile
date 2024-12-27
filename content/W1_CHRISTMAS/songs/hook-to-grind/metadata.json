@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Hook To Grind",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Kreagato"],
+        "chart" : ["Cloverderus"],
+        "art" : ["Ito Saihara", "OrbyyOrbinaut", "glass_aiko", "Rozebud"],
+        "code" : ["Lethrial"],
+        "va" : null
+    }
+}

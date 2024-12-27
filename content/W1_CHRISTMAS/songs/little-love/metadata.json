@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Little Love",
+        "expandBeat" : 8,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["Dollie", "lemlem_mew", "DerpDrawz"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}
