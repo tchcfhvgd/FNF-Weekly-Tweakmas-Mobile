@@ -38,8 +38,8 @@ import flixel.ui.FlxButton as UIButton;
 import mobile.TouchButton;
 import mobile.TouchUtil;
 import mobile.objects.Alphabet;
-import meta.data.options.*;
-import meta.states.substate.*;
+import funkin.data.options.*;
+import funkin.backend.*;
 
 using StringTools;
 
