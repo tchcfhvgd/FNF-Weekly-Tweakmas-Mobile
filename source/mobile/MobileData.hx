@@ -57,7 +57,7 @@ class MobileData
 		readDirectory(Paths.getSharedPath('mobile/DPadModes'), dpadModes);
 		readDirectory(Paths.getSharedPath('mobile/ActionModes'), actionModes);
 		#if MODS_ALLOWED
-		for (folder in directoriesWithFile(Paths.getPreloadPath(), 'mobile/'))
+		for (folder in directoriesWithFile(Paths.getSharedPath(), 'mobile/'))
 		{
 			readDirectory(Path.join([folder, 'DPadModes']), dpadModes);
 			readDirectory(Path.join([folder, 'ActionModes']), actionModes);
