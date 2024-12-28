@@ -24,6 +24,9 @@ import funkin.api.Discord.DiscordClient;
 import hxvlc.flixel.*;
 #end
 import Init;
+#if mobile
+import mobile.StorageUtil;
+#end
 import funkin.Paths;
 import funkin.data.ClientPrefs;
 import funkin.data.Conductor;
