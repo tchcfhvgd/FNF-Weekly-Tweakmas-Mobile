@@ -19,6 +19,7 @@ class Splash extends FlxState
 	{
 		_cachedAutoPause = FlxG.autoPause;
 		FlxG.autoPause = false;
+		mobile.MobileData.init();
 
 		FlxTimer.wait(1, () -> {
 			logo = new FlxSprite().loadGraphic(Paths.image('branding/Weekly'));
