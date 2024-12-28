@@ -23,7 +23,7 @@
 package mobile.options;
 
 import flixel.input.keyboard.FlxKey;
-import meta.data.options.*;
+import funkin.data.options.*;
 #if sys
 import sys.io.File;
 #end
