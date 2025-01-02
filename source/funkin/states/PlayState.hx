@@ -2772,39 +2772,6 @@ class PlayState extends MusicBeatState
 					}
 				}
 
-				/*
-																	var center:Float = strumY + daNote.daWidth / 2;
-																	if (field.members[daNote.noteData].sustainReduce
-																		&& daNote.isSustainNote
-																		&& (daNote.playField.playerControls || !daNote.ignoreNote) &&
-																		(!daNote.playField.playerControls || (daNote.wasGoodHit || (daNote.prevNote.wasGoodHit && !daNote.canBeHit))))
-																	{
-																		if (strumScroll)
-																		{
-																			if(daNote.y - daNote.offset.y * daNote.scale.y + daNote.height >= center)
-																			{
-																				var swagRect = new FlxRect(0, 0, daNote.frameWidth, daNote.frameHeight);
-																				swagRect.height = (center - daNote.y) / daNote.scale.y;
-																				swagRect.y = daNote.frameHeight - swagRect.height;
-		
-																				daNote.clipRect = swagRect;
-																			}
-																		}
-																		else
-																		{
-																			if (daNote.y + daNote.offset.y * daNote.scale.y <= center)
-																			{
-																				var swagRect = new FlxRect(0, 0, daNote.width / daNote.scale.x, daNote.height / daNote.scale.y);
-																				swagRect.y = (center - daNote.y) / daNote.scale.y;
-																				swagRect.height -= swagRect.y;
-		
-																				daNote.clipRect = swagRect;
-																			}
-																		}
-																	}
-						 */
-
-				// Kill extremely late notes and cause misses
 				if (Conductor.songPosition > noteKillOffset + daNote.strumTime)
 				{
 					daNote.garbage = true;

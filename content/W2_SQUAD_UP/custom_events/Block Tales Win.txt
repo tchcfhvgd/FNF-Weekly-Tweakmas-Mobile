@@ -1,0 +1,3 @@
+Set value 1 to "die" for the king to explode
+
+Set value 1 to "win" for the players to do their win poses

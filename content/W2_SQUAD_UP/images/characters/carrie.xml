@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="carrie.png" width="4096" height="512">
+  <SubTexture name="down0040" x="5" y="5"  width="199" height="175" frameX="-213" frameY="-377" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="down0041" x="214" y="5"  width="199" height="175" frameX="-213" frameY="-377" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="down0042" x="423" y="5"  width="199" height="180" frameX="-213" frameY="-372" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0001" x="632" y="5"  width="197" height="224" frameX="-230" frameY="-324" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0002" x="839" y="5"  width="197" height="224" frameX="-230" frameY="-324" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0003" x="1046" y="5"  width="187" height="229" frameX="-236" frameY="-319" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0004" x="1243" y="5"  width="187" height="229" frameX="-236" frameY="-319" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="left0050" x="1440" y="5"  width="254" height="231" frameX="-184" frameY="-315" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="left0051" x="1704" y="5"  width="254" height="231" frameX="-184" frameY="-315" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0005" x="1968" y="5"  width="176" height="232" frameX="-239" frameY="-316" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0006" x="2154" y="5"  width="176" height="232" frameX="-239" frameY="-316" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="left0052" x="2340" y="5"  width="237" height="232" frameX="-196" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0007" x="2587" y="5"  width="171" height="233" frameX="-240" frameY="-315" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0008" x="2768" y="5"  width="171" height="233" frameX="-240" frameY="-315" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="up0032" x="2949" y="5"  width="199" height="233" frameX="-213" frameY="-312" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0009" x="3158" y="5"  width="170" height="234" frameX="-239" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceleft0010" x="3338" y="5"  width="170" height="234" frameX="-239" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0021" x="3518" y="5"  width="168" height="234" frameX="-241" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0022" x="3696" y="5"  width="168" height="234" frameX="-241" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0023" x="3874" y="5"  width="169" height="234" frameX="-240" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0024" x="5" y="190"  width="169" height="234" frameX="-240" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0025" x="184" y="190"  width="170" height="234" frameX="-239" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0019" x="364" y="195"  width="164" height="235" frameX="-244" frameY="-313" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0020" x="538" y="239"  width="164" height="235" frameX="-244" frameY="-313" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0017" x="712" y="239"  width="153" height="237" frameX="-251" frameY="-311" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0018" x="875" y="239"  width="153" height="237" frameX="-251" frameY="-311" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="up0030" x="1038" y="244"  width="206" height="237" frameX="-202" frameY="-308" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="win0070" x="1254" y="244"  width="172" height="237" frameX="-228" frameY="-305" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="up0031" x="1436" y="246"  width="206" height="237" frameX="-202" frameY="-308" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="win0071" x="1652" y="246"  width="172" height="237" frameX="-228" frameY="-305" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="win0072" x="1834" y="247"  width="175" height="237" frameX="-230" frameY="-305" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0015" x="2019" y="247"  width="133" height="240" frameX="-263" frameY="-308" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="danceright0016" x="2162" y="247"  width="133" height="240" frameX="-263" frameY="-308" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="right0060" x="2305" y="247"  width="212" height="240" frameX="-228" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="right0061" x="2527" y="248"  width="212" height="240" frameX="-228" frameY="-314" frameWidth="1480" frameHeight="833"/>
+  <SubTexture name="right0062" x="2749" y="248"  width="214" height="240" frameX="-223" frameY="-314" frameWidth="1480" frameHeight="833"/>
+</TextureAtlas>

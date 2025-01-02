@@ -101,8 +101,10 @@ class PauseSubState extends MusicBeatSubstate
 		}
 		var meta:MetadataFile = PlayState.metadata;
 
-		var levelInfo = createCornerText(meta.card.name);
-		add(levelInfo);
+		if (meta != null) {
+			var levelInfo = createCornerText(meta.card.name);
+			add(levelInfo);
+		}
 
 		if (meta != null)
 		{

@@ -3,12 +3,14 @@ import openfl.filters.ShaderFilter;
 var anais:Character;
 var frames:FlxSprite;
 var overlay:FlxSprite;
-var sh = newShader('3D');
+var sh;
 var skipIntro = false;
 
 function onLoad(){
     var fuck = new FlxSprite().loadGraphic(Paths.image('gumball/gumballweekly_bg'));
     add(fuck);
+
+    if (ClientPrefs.shadersEnabled) sh = newShader('3D');
 }
 
 function onCreatePost(){
@@ -39,7 +41,7 @@ function onCreatePost(){
         add(overlay);
     
         game.camHUD.visible = false;
-        game.camGame.setFilters([new ShaderFilter(sh)]);
+        if (ClientPrefs.shadersEnabled) game.camGame.setFilters([new ShaderFilter(sh)]);
     
     
         queueEvent(11, (s,s2)->{ changeFrame(1); frames.visible = true;  overlay.visible = true; });
@@ -52,18 +54,20 @@ function onCreatePost(){
         });
         queueEvent(224, (s,s2)->{
             game.camGame.visible = true;
-            sh.data.zpos.value = [1];
+            if (ClientPrefs.shadersEnabled) sh.data.zpos.value = [1];
         });
         queueEvent(228, (s,s2)->{
-            sh.data.yrot.value = [-1];
+            if (ClientPrefs.shadersEnabled) sh.data.yrot.value = [-1];
         });
         queueEvent(230, (s,s2)->{
-            sh.data.yrot.value = [1];
+            if (ClientPrefs.shadersEnabled) sh.data.yrot.value = [1];
         });
         queueEvent(232, (s,s2)->{
             game.camHUD.visible = true;
-            sh.data.yrot.value = [0];
-            sh.data.zpos.value = [0];
+            if (ClientPrefs.shadersEnabled) {
+                sh.data.yrot.value = [0];
+                sh.data.zpos.value = [0];
+            }
             game.camHUD.flash(FlxColor.WHITE,1);
         });
 

@@ -1,0 +1,9 @@
+Use whenever there's a character change
+Keep value 2 blank if it's only one character
+
+When two characters are singing put the one closest to the right in value 1
+
+flag
+ito
+carrie
+basil

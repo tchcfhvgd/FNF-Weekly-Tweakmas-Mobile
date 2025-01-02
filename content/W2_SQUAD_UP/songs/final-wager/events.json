@@ -1,0 +1,161 @@
+{
+	"song": {
+		"events": [
+			[
+				20800,
+				[
+					[
+						"Switch Player",
+						"mortis",
+						""
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Switch Player",
+						"kye",
+						""
+					]
+				]
+			],
+			[
+				46400,
+				[
+					[
+						"Switch Player",
+						"orbyy",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Toon Town Events",
+						"squish",
+						"orbyy"
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"Switch Player",
+						"kye",
+						""
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Switch Player",
+						"mortis",
+						""
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Switch Player",
+						"kye",
+						""
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Toon Town Events",
+						"squish",
+						"kye"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Switch Player",
+						"dollie",
+						""
+					]
+				]
+			],
+			[
+				116800,
+				[
+					[
+						"Switch Player",
+						"mortis",
+						""
+					],
+					[
+						"Toon Town Events",
+						"squish",
+						"dollie"
+					]
+				]
+			],
+			[
+				118400,
+				[
+					[
+						"Toon Town Events",
+						"emotional",
+						""
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"lyric",
+						"Better ffmile before ya burn out!",
+						""
+					]
+				]
+			],
+			[
+				126400,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Toon Town Events",
+						"oh hi",
+						""
+					]
+				]
+			],
+			[
+				176145.454545454,
+				[
+					[
+						"Toon Town Events",
+						"bye",
+						""
+					]
+				]
+			]
+		]
+	}
+}

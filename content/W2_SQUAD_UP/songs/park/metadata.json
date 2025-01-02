@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Park",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["crossknife", "maddiesmiles"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["DerpDrawz"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

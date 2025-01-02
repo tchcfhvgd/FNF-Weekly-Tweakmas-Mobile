@@ -25,6 +25,7 @@ class ClientPrefs
 	public static var globalAntialiasing:Bool = true;
 	public static var noteSplashes:Bool = true;
 	public static var lowQuality:Bool = false;
+	public static var shadersEnabled:Bool = true;
 	public static var framerate:Int = 60;
 	public static var camZooms:Bool = true;
 	public static var hideHud:Bool = false;
@@ -159,6 +160,7 @@ class ClientPrefs
 		FlxG.save.data.globalAntialiasing = globalAntialiasing;
 		FlxG.save.data.noteSplashes = noteSplashes;
 		FlxG.save.data.lowQuality = lowQuality;
+		FlxG.save.data.shadersEnabled = shadersEnabled;
 		FlxG.save.data.framerate = framerate;
 		FlxG.save.data.camZooms = camZooms;
 		FlxG.save.data.noteOffset = noteOffset;
@@ -261,6 +263,10 @@ class ClientPrefs
 		if (FlxG.save.data.lowQuality != null)
 		{
 			lowQuality = FlxG.save.data.lowQuality;
+		}
+		if (FlxG.save.data.shadersEnabled != null)
+		{
+			shadersEnabled = FlxG.save.data.shadersEnabled;
 		}
 		if (FlxG.save.data.framerate == null)
 		{

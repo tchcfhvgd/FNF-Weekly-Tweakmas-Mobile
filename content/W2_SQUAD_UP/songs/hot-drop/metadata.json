@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Hot Drop",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["KloogyBaboogy"],
+        "art" : ["alphalul1", "mochadrawss", "Dollie", "KloogyBaboogy", "SN0WYDREAMS"],
+        "code" : ["DuskieWhy"],
+        "va" : null
+    }
+}

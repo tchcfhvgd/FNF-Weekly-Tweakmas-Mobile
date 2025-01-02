@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="greendude.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Down0000" x="5" y="5" width="429" height="378" frameX="-10" frameY="-16" frameWidth="595" frameHeight="394"/>
+	<SubTexture name="Down0001" x="439" y="5" width="595" height="392" frameX="0" frameY="0" frameWidth="595" frameHeight="394"/>
+	<SubTexture name="Idle0000" x="1039" y="5" width="426" height="418"/>
+	<SubTexture name="Idle0001" x="1470" y="5" width="426" height="418"/>
+	<SubTexture name="Left0000" x="5" y="428" width="450" height="404" frameX="0" frameY="-4" frameWidth="465" frameHeight="411"/>
+	<SubTexture name="Left0001" x="460" y="428" width="454" height="411" frameX="-11" frameY="0" frameWidth="465" frameHeight="411"/>
+	<SubTexture name="Right0000" x="919" y="428" width="358" height="418" frameX="-9" frameY="0" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="Right0001" x="1282" y="428" width="353" height="417" frameX="0" frameY="-1" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="Up0000" x="5" y="851" width="424" height="442" frameX="0" frameY="0" frameWidth="425" frameHeight="442"/>
+	<SubTexture name="Up0001" x="434" y="851" width="424" height="431" frameX="-1" frameY="-9" frameWidth="425" frameHeight="442"/>
+</TextureAtlas>

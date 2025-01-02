@@ -209,9 +209,6 @@ class WeeklyMainMenuState extends MusicBeatState
 		optionGrp.members[5].x = 1046;
 		optionGrp.members[5].y = 491;
 
-		optionGrp.members[4].visible = false; // Temp for now and honestly i could remove the arrows properly but not worth the effort
-		optionGrp.members[3].visible = false;
-
 		changeWeek();
 		super.create();
 	}

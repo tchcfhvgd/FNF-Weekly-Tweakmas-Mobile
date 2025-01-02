@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				23,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-19,
+				-35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				38,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-27,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				148,
+				-202
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "squish-loop",
+			"loop": false,
+			"name": "squish_loop"
+		},
+		{
+			"offsets": [
+				159,
+				470
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "squish",
+			"loop": false,
+			"name": "squish0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dollie_toon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "toon",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		102,
+		153
+	],
+	"camera_position": [
+		-400,
+		-100
+	],
+	"sing_duration": 5.59999999999999,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

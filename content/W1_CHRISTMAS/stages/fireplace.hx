@@ -1,4 +1,4 @@
-//import openfl.filters.ShaderFilter;
+import openfl.filters.ShaderFilter;
 
 var bg:BGSprite;
 
@@ -15,14 +15,17 @@ function onCreatePost()
     game.snapCamFollowToPos(bg.x + (bg.width / 2), bg.y + (bg.height / 2));
     modManager.setValue("opponentSwap", 0.125);
     
-   //var vhs:FlxShader = newShader('vhs');
-   //var filter:ShaderFilter = new ShaderFilter(vhs); // I'll rewrite this slightly to make it to use an for i loop
-   //game.camGame._filters = [];
-   //game.camGame._filters.push(filter);
-   //game.camHUD._filters = [];
-   //game.camHUD._filters.push(filter);
-   //game.camOther._filters = [];
-   //game.camOther._filters.push(filter);
+    if (ClientPrefs.shadersEnabled) {
+        var vhs:FlxShader = newShader('vhs');
+        var filter:ShaderFilter = new ShaderFilter(vhs); // I'll rewrite this slightly to make it to use an for i loop
+        game.camGame._filters = [];
+        game.camGame._filters.push(filter);
+        game.camHUD._filters = [];
+        game.camHUD._filters.push(filter);
+        game.camOther._filters = [];
+        game.camOther._filters.push(filter);
+    }
+        
     game.card.x += 160;
     
     var leftbar:FlxSprite = new FlxSprite(0, 0).makeGraphic(160, 720, FlxColor.BLACK);

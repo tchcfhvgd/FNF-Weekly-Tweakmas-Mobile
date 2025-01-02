@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Dead End",
+        "expandBeat" : -1,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus", "theWAHbox", "Kreagato"],
+        "chart" : ["Cloverderus"],
+        "art" : ["Loggo", "Dollie", "DerpDrawz"],
+        "code" : ["Srife5", "Loggo"],
+        "va" : ["Cloverderus", "MochaDrawss"]
+    }
+}

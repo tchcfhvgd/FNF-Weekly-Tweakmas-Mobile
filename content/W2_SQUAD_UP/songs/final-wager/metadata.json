@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Final Wager",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Dollie"],
+        "chart" : ["Kye_VL"],
+        "art" : ["Dollie"],
+        "code" : ["Lethrial", "OrbyyOrbinaut"],
+        "va" : ["Kye_VL"]
+    }
+}

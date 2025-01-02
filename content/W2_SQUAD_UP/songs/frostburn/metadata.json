@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Frostburn",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["KatAnims, Scrumbo"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["Flaguieug", "alphalul1", "Ito Saihara"],
+        "code" : ["Flaguieug"],
+        "va" : null
+    }
+}

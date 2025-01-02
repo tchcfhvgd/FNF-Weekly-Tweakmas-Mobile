@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Frostburn", "king", [0, 206, 255]],
+		["Park", "picopark", [0, 206, 255]],
+		["Hot Drop", "sunspot", [255, 178, 96]],
+		["Final Wager", "hr", [51, 102, 51]],
+		["Dead End", "employees", [255, 183, 95]],
+		["Dying Wish", "tf2", [229, 142, 35]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "SquadUp",
+	"weekBefore": "",
+	"weekName": "Tweakmas 2",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "SquadUp"
+}

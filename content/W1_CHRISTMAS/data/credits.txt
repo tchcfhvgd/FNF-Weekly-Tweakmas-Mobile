@@ -23,3 +23,4 @@ DuskieWhy::duskie::Programmer of "The Lie" & "A Regular Christmas Song"::https:/
 Biddle3::Biddle3::Composer of "A Regular Christmas Song"::https://x.com/thedawg3_::0xFFFFAF64
 MochaDrawss::Mocha::Mordecai Sprites with Dollie, Rigby Sprites with KatAnims::https://x.com/MochaDrawss::0xFFFFAF64
 Kye_VL::KyeVL::Charter of "A Regular Christmas Song"::https://x.com/Kye_VL::0xFFFFAF64
+Salesman::Salesman::Made the gameover for "Garlic Soul"::https://x.com/salesmanbruh::0xFFFFAF64

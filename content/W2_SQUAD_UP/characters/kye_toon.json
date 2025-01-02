@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				38
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-102
+			],
+			"anim": "squish-loop",
+			"fps": 24,
+			"name": "squish_loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				67,
+				630
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "squish",
+			"loop": false,
+			"name": "squish0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/kye_toon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "toon",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		102,
+		153
+	],
+	"camera_position": [
+		-270,
+		-40
+	],
+	"sing_duration": 5.59999999999999,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
