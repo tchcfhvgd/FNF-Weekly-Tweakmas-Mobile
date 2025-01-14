@@ -79,6 +79,7 @@ class Character extends FlxSprite
 	public var animSuffixExclusions = ['idle', 'danceLeft', 'danceRight', 'miss'];
 	public var danceIdle:Bool = false; // Character use "danceLeft" and "danceRight" instead of "idle"
 	public var skipDance:Bool = false;
+	public var forceDance:Bool = false;
 
 	public var healthIcon:String = 'face';
 	public var animationsArray:Array<AnimArray> = [];
@@ -449,11 +450,11 @@ class Character extends FlxSprite
 				danced = !danced;
 
 				if (danced) playAnim('danceRight' + idleSuffix);
-				else playAnim('danceLeft' + idleSuffix);
+				else playAnim('danceLeft' + idleSuffix, forceDance);
 			}
 			else if (animation.getByName('idle' + idleSuffix) != null)
 			{
-				playAnim('idle' + idleSuffix);
+				playAnim('idle' + idleSuffix, forceDance);
 			}
 		}
 	}

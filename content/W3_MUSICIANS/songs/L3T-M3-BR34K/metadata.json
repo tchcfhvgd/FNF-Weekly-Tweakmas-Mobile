@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "L3T M3 BR34K",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Dollie"],
+        "chart" : ["lemlem_mew"],
+        "art" : ["Dollie", "Jam", "MochaDrawss", "OrbyyOrbinaut", "lemlem_mew"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : null
+    }
+}

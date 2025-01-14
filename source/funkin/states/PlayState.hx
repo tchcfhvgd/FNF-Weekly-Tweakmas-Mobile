@@ -258,6 +258,7 @@ class PlayState extends MusicBeatState
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
 	public var songMisses:Int = 0;
+	public var basegameHoldHandling:Bool = false;
 
 	public var card:SongCard;
 	public var hasMetadata:Bool;
@@ -882,7 +883,6 @@ class PlayState extends MusicBeatState
 		}
 
 		// trace('noteskin file: "${SONG.arrowSkin}"');
-
 		if (SONG.arrowSkin != 'default' && SONG.arrowSkin != '' && SONG.arrowSkin != null)
 		{
 			if (FileSystem.exists(Paths.modsNoteskin('${SONG.arrowSkin}')))
@@ -891,15 +891,15 @@ class PlayState extends MusicBeatState
 			}
 			else if (FileSystem.exists(Paths.noteskin('${SONG.arrowSkin}')))
 			{
-				// Noteskin doesn't exist in assets, trying mods folder
+				// Noteskin doesn't exist in assets, trying mods folder // this comment is wrong btw it tries the mods folder first then assets lol
 				noteSkin = new NoteSkinHelper(Paths.noteskin('${SONG.arrowSkin}'));
 			}
 		}
 		else
 		{
-			if (FileSystem.exists(Paths.modsNoteskin('default')))
+			if (FileSystem.exists(Paths.noteskin('default')))
 			{
-				noteSkin = new NoteSkinHelper(Paths.modsNoteskin('default'));
+				noteSkin = new NoteSkinHelper(Paths.noteskin('default'));
 			}
 		}
 
@@ -4251,8 +4251,10 @@ class PlayState extends MusicBeatState
 				{
 					if (gf != null)
 					{
-						gf.playAnim(animToPlay + daAlt, true);
-						gf.holdTimer = 0;
+						if(!note.isSustainNote && basegameHoldHandling){
+							gf.playAnim(animToPlay + daAlt, true);
+							gf.holdTimer = 0;
+						}
 					}
 				}
 				else if (field.owner.animTimer <= 0 && !field.owner.voicelining)
@@ -4284,12 +4286,14 @@ class PlayState extends MusicBeatState
 
 						field.owner.mostRecentRow = note.row;
 					}
-					else
+					else if(basegameHoldHandling && !note.isSustainNote || !basegameHoldHandling) // ty beth for fixing this
 					{
 						if (note.noteType != "Ghost Note")
 						{
-							if (note.owner == null) field.owner.playAnim(animToPlay + daAlt, true);
-							else note.owner.playAnim(animToPlay + daAlt, true);
+							if (note.owner == null)
+								field.owner.playAnim(animToPlay + daAlt, true);
+							else
+								note.owner.playAnim(animToPlay + daAlt, true);
 						}
 						else
 						{
@@ -4462,8 +4466,8 @@ class PlayState extends MusicBeatState
 						var realAnim = noteSkin.data.singAnimations[Std.int(Math.abs(animNote.noteData))] + daAlt;
 						if (field.owner.mostRecentRow != note.row)
 						{
-							if (owner == null) field.owner.playAnim(realAnim, true);
-							else owner.playAnim(realAnim, true);
+							if (note.owner == null) field.owner.playAnim(realAnim, true);
+							else note.owner.playAnim(realAnim, true);
 						}
 
 						if (note != animNote && chord.indexOf(note) != animNote.noteData)
@@ -4475,17 +4479,19 @@ class PlayState extends MusicBeatState
 
 						field.owner.mostRecentRow = note.row;
 					}
-					else
+					else if(basegameHoldHandling && !note.isSustainNote || !basegameHoldHandling)
 					{
 						if (note.noteType != "Ghost Note")
 						{
-							if (owner == null) field.owner.playAnim(animToPlay + daAlt, true);
-							else owner.playAnim(animToPlay + daAlt, true);
+							if (note.owner == null)
+								field.owner.playAnim(animToPlay + daAlt, true);
+							else
+								note.owner.playAnim(animToPlay + daAlt, true);
 						}
 						else
 						{
-							if (owner == null) field.owner.playGhostAnim(note.noteData, animToPlay, true);
-							else owner.playGhostAnim(note.noteData, animToPlay, true);
+							if (note.owner == null) field.owner.playGhostAnim(note.noteData, animToPlay, true);
+							else note.owner.playGhostAnim(note.noteData, animToPlay, true);
 						}
 					}
 				}

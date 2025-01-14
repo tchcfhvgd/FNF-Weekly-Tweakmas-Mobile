@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 4,
+			"name": "wolfIDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				2
+			],
+			"indices": [],
+			"fps": 4,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "wolfDOWN"
+		},
+		{
+			"offsets": [
+				-7,
+				-6
+			],
+			"indices": [],
+			"fps": 4,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "wolfLEFT"
+		},
+		{
+			"offsets": [
+				-13,
+				-17
+			],
+			"indices": [],
+			"fps": 4,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"anim": "singUP",
+			"loop": true,
+			"name": "wolfUP"
+		},
+		{
+			"offsets": [
+				-14,
+				-2
+			],
+			"indices": [],
+			"fps": 4,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "wolfRIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tyler",
+	"position": [
+		0,
+		570
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-110,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 2.5
+}

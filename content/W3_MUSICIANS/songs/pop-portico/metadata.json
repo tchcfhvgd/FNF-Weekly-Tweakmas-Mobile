@@ -1,0 +1,15 @@
+{
+    "card" : {
+        "name" : "Pop Portico",
+        "expandBeat" : 0,
+		"duration": 3,
+        "font": "arialbd.ttf"
+    },
+    "credits" : {
+        "music" : ["niffirg"],
+        "chart" : ["niffirg"],
+        "art" : ["Dollie"],
+        "code" : ["Flaguieug"],
+        "va" : null
+    }
+}

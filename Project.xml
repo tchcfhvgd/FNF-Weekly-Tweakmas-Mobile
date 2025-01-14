@@ -105,9 +105,7 @@
 	<haxedef name="HXCPP_STACK_LINE" if="CRASH_HANDLER" />
 	<haxedef name="HXCPP_STACK_TRACE" if="CRASH_HANDLER" />
 
-	
 	<define name="DISABLE_TRACES" if="desktop release"/>
-
 
 	<haxedef name="FLX_NO_FOCUS_LOST_SCREEN" />
 

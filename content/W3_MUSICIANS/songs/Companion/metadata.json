@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Companion",
+        "expandBeat" : 176,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Kreagato"],
+        "chart" : ["Kloogybaboogy, OrbyyOrbinaut"],
+        "art" : ["SWAG", "OrbyyOrbinaut"],
+        "code" : ["OrbyyOrbinaut"],
+        "va" : ["Kasane Teto"]
+    }
+}

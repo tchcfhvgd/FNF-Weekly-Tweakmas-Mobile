@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Indomitable2weak",
+        "expandBeat" : 4,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Cloverderus, maddiesmiles, Lethrial"],
+        "chart" : ["Cloverderus"],
+        "art" : ["DerpDrawz"],
+        "code" : ["DuskieWhy"],
+        "va" : ["niffirg"]
+    }
+}

@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Pop Portico", "jack", [210, 126, 61]],
+		["L3T M3 BR34K", "token", [255, 255, 255]],
+		["All Night", "bot1", [0, 0, 255]],
+		["Companion", "teto", [255, 0, 66]],
+		["Through You", "wolf", [0, 206, 255]],
+		["Indomitable2weak", "boss", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Diverse Discography",
+	"weekBefore": "",
+	"weekName": "Tweakmas 3",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weeklogo": "DiverseDiscography"
+}

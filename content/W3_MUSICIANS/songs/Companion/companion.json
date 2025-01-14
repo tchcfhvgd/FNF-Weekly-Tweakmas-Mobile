@@ -1,0 +1,14291 @@
+{
+	"song": {
+		"player1": "jamie",
+		"gfVersion": "jamie",
+		"notes": [
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						3078.94736842105,
+						1,
+						157.894736842105,
+						"",
+						true
+					],
+					[
+						3552.63157894737,
+						2,
+						394.736842105263,
+						"",
+						true
+					],
+					[
+						3315.78947368421,
+						3,
+						157.894736842105,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						4736.84210526316,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						4894.73684210526,
+						3,
+						394.736842105263,
+						"",
+						true
+					],
+					[
+						4342.1052631579,
+						2,
+						315.789473684211,
+						"",
+						true
+					],
+					[
+						4026.31578947368,
+						0,
+						236.842105263158,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						8684.21052631579,
+						2,
+						315.789473684211,
+						"",
+						true
+					],
+					[
+						8210.52631578947,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						8368.42105263158,
+						0,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						9315.78947368421,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						9473.68421052631,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						9750,
+						0,
+						394.736842105263,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						10302.6315789474,
+						3,
+						315.789473684211,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						13105.2631578947,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						13263.1578947368,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						13421.0526315789,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						13736.8421052632,
+						3,
+						315.789473684211,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						14526.3157894737,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						14763.1578947368,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						15000,
+						3,
+						394.736842105263,
+						"",
+						true
+					],
+					[
+						14171.0526315789,
+						1,
+						315.789473684211,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						18157.8947368421,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						18315.7894736842,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						18473.6842105263,
+						0,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						18789.4736842105,
+						1,
+						236.842105263158,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						19578.947368421,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						19894.7368421053,
+						1,
+						473.684210526316,
+						"",
+						true
+					],
+					[
+						19263.1578947368,
+						0,
+						236.842105263158,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						20486.8421052632,
+						3,
+						315.789473684211,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						23842.1052631579,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						24000,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						24157.8947368421,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						24315.7894736842,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						24473.6842105263,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						24631.5789473684,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						24789.4736842105,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						24947.3684210526,
+						0,
+						236.842105263158,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						25263.1578947368,
+						3,
+						868.421052631579,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						28500,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						28657.8947368421,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						28815.7894736842,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						29684.2105263158,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						29526.3157894737,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						30000,
+						1,
+						473.684210526316,
+						"",
+						true
+					],
+					[
+						29052.6315789474,
+						0,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						30552.6315789474,
+						3,
+						710.526315789474,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 175,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						33947.3684210526,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 175,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						34578.9473684211,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						34736.8421052632,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						34105.2631578947,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						34263.1578947369,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						34421.052631579,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						35052.6315789474,
+						1,
+						473.684210526316,
+						"",
+						true
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 175,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						35605.2631578947,
+						0,
+						868.421052631579,
+						"",
+						true
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 175,
+				"changeBPM": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						38684.2105263158,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						38842.1052631579,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						39000,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						39631.5789473684,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						40184.2105263158,
+						2,
+						473.684210526316,
+						"",
+						true
+					],
+					[
+						39157.8947368421,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						39789.4736842105,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						40736.8421052632,
+						3,
+						710.526315789474,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						43578.947368421,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						43736.8421052632,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						43894.7368421053,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						44052.6315789474,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						44526.3157894737,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						44842.1052631579,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						44684.2105263158,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						45000,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						44210.5263157895,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						45315.7894736842,
+						3,
+						3947.36842105263,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						51236.8421052631,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						51236.8421052631,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						51473.6842105263,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						51473.6842105263,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						51631.5789473684,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						51631.5789473684,
+						4,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						51789.4736842105,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						51789.4736842105,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						51947.3684210526,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						51947.3684210526,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						52105.2631578947,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						52105.2631578947,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						52263.1578947368,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						52263.1578947368,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						52421.0526315789,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						52421.0526315789,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						52736.8421052631,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						52736.8421052631,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						53052.6315789473,
+						2,
+						394.736842105263,
+						"",
+						true
+					],
+					[
+						53052.6315789473,
+						6,
+						394.736842105263,
+						"",
+						true
+					],
+					[
+						53526.3157894737,
+						3,
+						710.526315789474,
+						"",
+						true
+					],
+					[
+						53526.3157894737,
+						7,
+						710.526315789474,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						55736.8421052631,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						55894.7368421052,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						56052.6315789473,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						56210.5263157894,
+						3,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						56526.3157894737,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						56684.2105263158,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						56210.5263157894,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						56368.4210526316,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						56526.3157894737,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						56684.2105263158,
+						6,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						57000,
+						1,
+						315.78947368421,
+						"",
+						true
+					],
+					[
+						57473.6842105263,
+						2,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						57947.3684210526,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						57789.4736842105,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						56842.1052631579,
+						5,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						57157.8947368421,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						57315.7894736842,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						57473.6842105263,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						57631.5789473684,
+						5,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						57947.3684210526,
+						6,
+						394.736842105263,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						58263.1578947368,
+						2,
+						0,
+						""
+					],
+					[
+						58421.0526315789,
+						3,
+						0,
+						""
+					],
+					[
+						58578.947368421,
+						2,
+						0,
+						""
+					],
+					[
+						58736.8421052631,
+						0,
+						236.842105263158,
+						""
+					],
+					[
+						59052.6315789473,
+						3,
+						0,
+						""
+					],
+					[
+						59210.5263157895,
+						1,
+						236.842105263158,
+						""
+					],
+					[
+						58578.947368421,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						58736.8421052631,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						58894.7368421052,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						59052.6315789473,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						59210.5263157894,
+						5,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						59526.3157894737,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						59842.1052631579,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						60000,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						60157.8947368421,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						60315.7894736842,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						60473.6842105263,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						59368.4210526315,
+						7,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						59684.2105263158,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						59842.1052631579,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						60000,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						60157.8947368421,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						60394.7368421052,
+						4,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						60789.4736842105,
+						5,
+						0,
+						""
+					],
+					[
+						60947.3684210526,
+						4,
+						0,
+						""
+					],
+					[
+						61105.2631578947,
+						5,
+						0,
+						""
+					],
+					[
+						61263.1578947368,
+						7,
+						236.842105263158,
+						""
+					],
+					[
+						61578.947368421,
+						4,
+						0,
+						""
+					],
+					[
+						61736.8421052631,
+						6,
+						0,
+						""
+					],
+					[
+						61105.2631578947,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						61263.1578947368,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						61421.0526315789,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						61578.947368421,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						61736.8421052631,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						62052.6315789473,
+						5,
+						315.78947368421,
+						""
+					],
+					[
+						62526.3157894737,
+						6,
+						236.842105263158,
+						""
+					],
+					[
+						63000,
+						5,
+						0,
+						""
+					],
+					[
+						62842.1052631579,
+						7,
+						0,
+						""
+					],
+					[
+						61894.7368421052,
+						1,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						62210.5263157894,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						62368.4210526315,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						62526.3157894736,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						62684.2105263158,
+						0,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						63000,
+						2,
+						315.789473684211,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						63315.7894736842,
+						6,
+						0,
+						""
+					],
+					[
+						63473.6842105263,
+						7,
+						0,
+						""
+					],
+					[
+						63631.5789473684,
+						6,
+						0,
+						""
+					],
+					[
+						64263.1578947368,
+						5,
+						394.736842105263,
+						""
+					],
+					[
+						63789.4736842105,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						64105.2631578947,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						63631.5789473684,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						63789.4736842105,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						63947.3684210526,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						64105.2631578947,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						64263.1578947368,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						63947.3684210526,
+						5,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						64736.8421052631,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						64894.7368421052,
+						4,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						65210.5263157894,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						65368.4210526315,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						65526.3157894736,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						64421.0526315789,
+						3,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						64736.8421052631,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						64894.7368421052,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						65052.6315789473,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						65210.5263157894,
+						2,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						65526.3157894736,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						66315.7894736842,
+						4,
+						0,
+						""
+					],
+					[
+						66473.6842105263,
+						7,
+						0,
+						""
+					],
+					[
+						66631.5789473684,
+						5,
+						0,
+						""
+					],
+					[
+						66789.4736842105,
+						6,
+						0,
+						""
+					],
+					[
+						66631.5789473684,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						66789.4736842105,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						66315.7894736842,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						66000,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						66947.3684210526,
+						5,
+						236.842105263158,
+						""
+					],
+					[
+						67263.1578947368,
+						4,
+						0,
+						""
+					],
+					[
+						67421.0526315789,
+						7,
+						0,
+						""
+					],
+					[
+						67578.947368421,
+						4,
+						0,
+						""
+					],
+					[
+						67736.8421052631,
+						5,
+						236.842105263158,
+						""
+					],
+					[
+						67263.1578947368,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						67736.8421052631,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						68052.6315789473,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						66947.3684210526,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						67421.0526315789,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						68052.6315789473,
+						6,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						68684.2105263158,
+						7,
+						0,
+						""
+					],
+					[
+						68842.1052631579,
+						5,
+						0,
+						""
+					],
+					[
+						69000,
+						6,
+						0,
+						""
+					],
+					[
+						69157.8947368421,
+						4,
+						0,
+						""
+					],
+					[
+						69315.7894736842,
+						5,
+						0,
+						""
+					],
+					[
+						68526.3157894736,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						68842.1052631578,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						69157.894736842,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						69315.7894736842,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						69473.6842105263,
+						7,
+						236.842105263158,
+						""
+					],
+					[
+						69789.4736842105,
+						6,
+						0,
+						""
+					],
+					[
+						69947.3684210526,
+						5,
+						0,
+						""
+					],
+					[
+						70105.2631578947,
+						4,
+						0,
+						""
+					],
+					[
+						70263.1578947368,
+						6,
+						0,
+						""
+					],
+					[
+						69473.6842105263,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						69789.4736842105,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						69947.3684210526,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						70263.1578947368,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						70578.947368421,
+						0,
+						315.789473684211,
+						"",
+						true
+					],
+					[
+						70499.9999999999,
+						4,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						71210.5263157894,
+						3,
+						0,
+						""
+					],
+					[
+						71368.4210526315,
+						0,
+						0,
+						""
+					],
+					[
+						71526.3157894737,
+						1,
+						0,
+						""
+					],
+					[
+						71684.2105263158,
+						2,
+						0,
+						""
+					],
+					[
+						71842.1052631579,
+						3,
+						0,
+						""
+					],
+					[
+						71052.6315789473,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						71368.4210526315,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						71684.2105263157,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						71842.1052631578,
+						4,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						72000,
+						1,
+						236.842105263158,
+						""
+					],
+					[
+						72315.7894736842,
+						2,
+						0,
+						""
+					],
+					[
+						72473.6842105263,
+						1,
+						0,
+						""
+					],
+					[
+						72631.5789473684,
+						3,
+						0,
+						""
+					],
+					[
+						72789.4736842105,
+						0,
+						236.842105263158,
+						""
+					],
+					[
+						73105.2631578947,
+						2,
+						315.789473684211,
+						""
+					],
+					[
+						71999.9999999999,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						72315.7894736842,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						72473.6842105263,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						72789.4736842105,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						73105.2631578947,
+						6,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						73736.8421052631,
+						1,
+						0,
+						""
+					],
+					[
+						73894.7368421052,
+						2,
+						0,
+						""
+					],
+					[
+						74052.6315789473,
+						0,
+						0,
+						""
+					],
+					[
+						74210.5263157894,
+						3,
+						0,
+						""
+					],
+					[
+						74368.4210526315,
+						1,
+						0,
+						""
+					],
+					[
+						73421.0526315789,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						73578.947368421,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						73736.8421052631,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						73894.7368421052,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						74052.6315789473,
+						4,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						74368.4210526315,
+						5,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						74526.3157894736,
+						3,
+						236.842105263158,
+						""
+					],
+					[
+						74842.1052631578,
+						2,
+						0,
+						""
+					],
+					[
+						75000,
+						0,
+						0,
+						""
+					],
+					[
+						75157.8947368421,
+						1,
+						0,
+						""
+					],
+					[
+						75315.7894736842,
+						2,
+						236.842105263158,
+						""
+					],
+					[
+						75631.5789473684,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						74526.3157894736,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						74684.2105263157,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						74842.1052631578,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						74999.9999999999,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						75157.894736842,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						75315.7894736841,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						75552.6315789473,
+						6,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						75789.4736842105,
+						7,
+						394.736842105263,
+						"",
+						true
+					],
+					[
+						75789.4736842105,
+						0,
+						394.736842105263,
+						"",
+						true
+					],
+					[
+						76736.8421052631,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						76736.8421052631,
+						6,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						77052.6315789473,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						77052.6315789473,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						77210.5263157894,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						77210.5263157894,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						77368.4210526315,
+						2,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						77368.4210526315,
+						6,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						77999.9999999999,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						77999.9999999999,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						78157.894736842,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						78157.894736842,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						77684.2105263157,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						77684.2105263157,
+						0,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						78315.7894736841,
+						0,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						78315.7894736841,
+						4,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						78947.3684210526,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						78947.3684210526,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						79105.2631578947,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						79105.2631578947,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						79263.1578947368,
+						4,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						79263.1578947368,
+						0,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						78631.5789473684,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						78631.5789473684,
+						6,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						79894.7368421052,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						79894.7368421052,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						80052.6315789473,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						80052.6315789473,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						80210.5263157894,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						80210.5263157894,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						80368.4210526315,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						80368.4210526315,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						80526.3157894736,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						80526.3157894736,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						80684.2105263157,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						80684.2105263157,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						79578.947368421,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						79578.947368421,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						80842.1052631578,
+						6,
+						631.578947368421,
+						"",
+						true
+					],
+					[
+						80842.1052631578,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						80999.9999999999,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						81157.894736842,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						81315.7894736841,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						81473.6842105262,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						81631.5789473683,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						81789.4736842104,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						81947.3684210526,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						82105.2631578947,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						82263.1578947368,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						82421.0526315789,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						82578.947368421,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						82736.8421052631,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						82894.7368421052,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						83052.6315789473,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						83210.5263157894,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						83368.4210526315,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						83526.3157894736,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						83684.2105263157,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						83842.1052631578,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						83999.9999999999,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						84157.894736842,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						84315.7894736841,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						84473.6842105262,
+						0,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						84631.5789473683,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						84789.4736842104,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						84947.3684210526,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						85105.2631578947,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						85263.1578947368,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						85421.0526315789,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						85578.947368421,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						85736.8421052631,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						85894.7368421052,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						86368.4210526315,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						86052.6315789473,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						86210.5263157894,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						86526.3157894736,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						86684.2105263157,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						86842.1052631578,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						86999.9999999999,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						87157.894736842,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						87315.7894736841,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						87473.6842105262,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						87631.5789473683,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						87789.4736842104,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						87947.3684210525,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						88105.2631578946,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						88263.1578947368,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						88421.0526315789,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						88578.947368421,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						88736.8421052631,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						88894.7368421052,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						89052.6315789473,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						89210.5263157894,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						89368.4210526315,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						89526.3157894736,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						89684.2105263157,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						89842.1052631578,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						89999.9999999999,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						90157.894736842,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						90315.7894736841,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						90473.6842105262,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						90631.5789473683,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						90789.4736842104,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						90947.3684210526,
+						5,
+						0,
+						""
+					],
+					[
+						91105.2631578947,
+						7,
+						0,
+						""
+					],
+					[
+						91263.1578947368,
+						4,
+						0,
+						""
+					],
+					[
+						91421.0526315789,
+						6,
+						0,
+						""
+					],
+					[
+						91578.947368421,
+						4,
+						0,
+						""
+					],
+					[
+						91736.8421052631,
+						7,
+						0,
+						""
+					],
+					[
+						91894.7368421052,
+						5,
+						0,
+						""
+					],
+					[
+						92052.6315789473,
+						6,
+						0,
+						""
+					],
+					[
+						91263.1578947368,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						91578.947368421,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						91894.7368421052,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						92052.6315789473,
+						0,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						92210.5263157894,
+						4,
+						0,
+						""
+					],
+					[
+						92368.4210526315,
+						6,
+						0,
+						""
+					],
+					[
+						92526.3157894736,
+						7,
+						0,
+						""
+					],
+					[
+						92684.2105263157,
+						5,
+						0,
+						""
+					],
+					[
+						92842.1052631578,
+						6,
+						0,
+						""
+					],
+					[
+						92999.9999999999,
+						4,
+						0,
+						""
+					],
+					[
+						93157.894736842,
+						5,
+						0,
+						""
+					],
+					[
+						93315.7894736841,
+						6,
+						0,
+						""
+					],
+					[
+						92210.5263157894,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						92526.3157894736,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						92684.2105263157,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						92999.9999999999,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						93315.7894736841,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						93473.6842105262,
+						4,
+						0,
+						""
+					],
+					[
+						93631.5789473683,
+						7,
+						0,
+						""
+					],
+					[
+						93789.4736842104,
+						5,
+						0,
+						""
+					],
+					[
+						93947.3684210526,
+						6,
+						0,
+						""
+					],
+					[
+						94105.2631578947,
+						5,
+						0,
+						""
+					],
+					[
+						94263.1578947368,
+						4,
+						0,
+						""
+					],
+					[
+						94421.0526315789,
+						6,
+						0,
+						""
+					],
+					[
+						94578.947368421,
+						7,
+						0,
+						""
+					],
+					[
+						93789.4736842104,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						94105.2631578946,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						94421.0526315788,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						94578.947368421,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						94736.8421052631,
+						5,
+						0,
+						""
+					],
+					[
+						94894.7368421052,
+						4,
+						0,
+						""
+					],
+					[
+						95052.6315789473,
+						6,
+						0,
+						""
+					],
+					[
+						95210.5263157894,
+						5,
+						0,
+						""
+					],
+					[
+						95368.4210526315,
+						7,
+						0,
+						""
+					],
+					[
+						95526.3157894736,
+						6,
+						0,
+						""
+					],
+					[
+						95684.2105263157,
+						5,
+						0,
+						""
+					],
+					[
+						95842.1052631578,
+						6,
+						0,
+						""
+					],
+					[
+						94736.8421052631,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						95052.6315789473,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						95210.5263157894,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						95526.3157894736,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						95842.1052631578,
+						0,
+						315.789473684211,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						95999.9999999999,
+						4,
+						0,
+						""
+					],
+					[
+						96473.6842105262,
+						7,
+						0,
+						""
+					],
+					[
+						96157.894736842,
+						6,
+						0,
+						""
+					],
+					[
+						96315.7894736841,
+						5,
+						0,
+						""
+					],
+					[
+						96631.5789473683,
+						5,
+						0,
+						""
+					],
+					[
+						96789.4736842104,
+						6,
+						0,
+						""
+					],
+					[
+						96947.3684210525,
+						4,
+						0,
+						""
+					],
+					[
+						97105.2631578946,
+						5,
+						0,
+						""
+					],
+					[
+						96315.7894736841,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						96631.5789473683,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						96947.3684210525,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						97105.2631578946,
+						0,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						97263.1578947368,
+						4,
+						0,
+						""
+					],
+					[
+						97421.0526315789,
+						7,
+						0,
+						""
+					],
+					[
+						97578.947368421,
+						5,
+						0,
+						""
+					],
+					[
+						97736.8421052631,
+						4,
+						0,
+						""
+					],
+					[
+						97894.7368421052,
+						6,
+						0,
+						""
+					],
+					[
+						98052.6315789473,
+						5,
+						0,
+						""
+					],
+					[
+						98210.5263157894,
+						4,
+						0,
+						""
+					],
+					[
+						98368.4210526315,
+						7,
+						0,
+						""
+					],
+					[
+						97263.1578947367,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						97578.947368421,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						97736.8421052631,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						98052.6315789473,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						98368.4210526315,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						99157.8947368421,
+						4,
+						0,
+						""
+					],
+					[
+						99315.7894736842,
+						7,
+						0,
+						""
+					],
+					[
+						99473.6842105263,
+						5,
+						0,
+						""
+					],
+					[
+						99631.5789473684,
+						6,
+						0,
+						""
+					],
+					[
+						99157.894736842,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						99315.7894736841,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						99473.6842105262,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						99631.5789473683,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 175
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						99789.4736842105,
+						5,
+						236.842105263158,
+						""
+					],
+					[
+						100105.263157895,
+						4,
+						0,
+						""
+					],
+					[
+						100263.157894737,
+						7,
+						0,
+						""
+					],
+					[
+						100421.052631579,
+						4,
+						0,
+						""
+					],
+					[
+						100578.947368421,
+						5,
+						236.842105263158,
+						""
+					],
+					[
+						100105.263157895,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						100263.157894737,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						100421.052631579,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						100894.736842105,
+						2,
+						315.789473684211,
+						"",
+						true
+					],
+					[
+						100578.947368421,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						99789.4736842104,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						100894.736842105,
+						6,
+						394.736842105263,
+						"",
+						true
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 175,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						101526.315789474,
+						7,
+						0,
+						""
+					],
+					[
+						101684.210526316,
+						5,
+						0,
+						""
+					],
+					[
+						101842.105263158,
+						6,
+						0,
+						""
+					],
+					[
+						102000,
+						4,
+						0,
+						""
+					],
+					[
+						102157.894736842,
+						5,
+						0,
+						""
+					],
+					[
+						101526.315789474,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						101684.210526316,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						101842.105263158,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						102000,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						102157.894736842,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						102631.578947368,
+						6,
+						0,
+						""
+					],
+					[
+						102789.47368421,
+						5,
+						0,
+						""
+					],
+					[
+						102947.368421053,
+						4,
+						0,
+						""
+					],
+					[
+						103105.263157895,
+						6,
+						0,
+						""
+					],
+					[
+						102631.578947368,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						102789.47368421,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						102947.368421053,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						103105.263157895,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						102315.789473684,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						102315.789473684,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						103421.052631579,
+						0,
+						0,
+						"",
+						true
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103973.684210526,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						104368.421052631,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						104684.210526316,
+						3,
+						394.736842105263,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						105157.894736842,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						105315.789473684,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						105631.578947368,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						105947.368421053,
+						0,
+						473.684210526316,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						106500,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						106894.736842105,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						107210.526315789,
+						2,
+						315.789473684211,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						107605.263157895,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						107842.105263158,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						108157.894736842,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						108473.684210526,
+						3,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108947.368421053,
+						0,
+						0,
+						""
+					],
+					[
+						109105.263157895,
+						1,
+						0,
+						""
+					],
+					[
+						109263.157894737,
+						3,
+						236.842105263158,
+						""
+					],
+					[
+						109578.947368421,
+						0,
+						0,
+						""
+					],
+					[
+						109736.842105263,
+						2,
+						0,
+						""
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110052.631578947,
+						1,
+						315.78947368421,
+						""
+					],
+					[
+						110526.315789474,
+						2,
+						236.842105263158,
+						""
+					],
+					[
+						111000,
+						1,
+						0,
+						""
+					],
+					[
+						110842.105263158,
+						3,
+						0,
+						""
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						111315.789473684,
+						2,
+						0,
+						""
+					],
+					[
+						111473.684210526,
+						3,
+						0,
+						""
+					],
+					[
+						111631.578947368,
+						2,
+						0,
+						""
+					],
+					[
+						111789.473684211,
+						0,
+						236.842105263158,
+						""
+					],
+					[
+						112105.263157895,
+						3,
+						0,
+						""
+					],
+					[
+						112263.157894737,
+						1,
+						236.842105263158,
+						""
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						112578.947368421,
+						2,
+						0,
+						""
+					],
+					[
+						112894.736842105,
+						3,
+						0,
+						""
+					],
+					[
+						113052.631578947,
+						0,
+						0,
+						""
+					],
+					[
+						113210.526315789,
+						2,
+						0,
+						""
+					],
+					[
+						113368.421052632,
+						1,
+						0,
+						""
+					],
+					[
+						113526.315789474,
+						3,
+						0,
+						""
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						113842.105263158,
+						5,
+						0,
+						""
+					],
+					[
+						114000,
+						4,
+						0,
+						""
+					],
+					[
+						114157.894736842,
+						5,
+						0,
+						""
+					],
+					[
+						114315.789473684,
+						7,
+						236.842105263158,
+						""
+					],
+					[
+						114631.578947368,
+						4,
+						0,
+						""
+					],
+					[
+						114789.473684211,
+						6,
+						0,
+						""
+					],
+					[
+						114789.47368421,
+						3,
+						394.736842105263,
+						""
+					],
+					[
+						114078.947368421,
+						2,
+						0,
+						""
+					],
+					[
+						114473.684210526,
+						1,
+						0,
+						""
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						115578.947368421,
+						6,
+						236.842105263158,
+						""
+					],
+					[
+						116052.631578947,
+						5,
+						0,
+						""
+					],
+					[
+						115894.736842105,
+						7,
+						0,
+						""
+					],
+					[
+						115263.157894737,
+						0,
+						0,
+						""
+					],
+					[
+						115421.052631579,
+						2,
+						0,
+						""
+					],
+					[
+						115736.842105263,
+						1,
+						0,
+						""
+					],
+					[
+						116052.631578947,
+						0,
+						473.684210526316,
+						""
+					],
+					[
+						115105.263157895,
+						5,
+						315.789473684211,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						116921.052631579,
+						1,
+						0,
+						""
+					],
+					[
+						117157.894736842,
+						2,
+						0,
+						""
+					],
+					[
+						117315.789473684,
+						0,
+						0,
+						""
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						117473.684210526,
+						2,
+						0,
+						""
+					],
+					[
+						117631.578947368,
+						3,
+						0,
+						""
+					],
+					[
+						117789.473684211,
+						1,
+						0,
+						""
+					],
+					[
+						117947.368421053,
+						2,
+						0,
+						""
+					],
+					[
+						118105.263157895,
+						0,
+						0,
+						""
+					],
+					[
+						118421.052631579,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						118736.842105263,
+						2,
+						394.736842105263,
+						"Alt Animation"
+					],
+					[
+						119210.526315789,
+						3,
+						710.526315789474,
+						"Alt Animation"
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						121973.684210526,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						122131.578947368,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						122289.47368421,
+						0,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						122447.368421052,
+						1,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						123394.736842105,
+						2,
+						631.578947368421,
+						"Alt Animation",
+						true
+					],
+					[
+						122763.157894737,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						122921.052631579,
+						3,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						123078.947368421,
+						1,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						124421.052631579,
+						4,
+						0,
+						""
+					],
+					[
+						124578.947368421,
+						7,
+						0,
+						""
+					],
+					[
+						124736.842105263,
+						5,
+						0,
+						""
+					],
+					[
+						124894.736842105,
+						6,
+						0,
+						""
+					],
+					[
+						124105.263157895,
+						0,
+						789.473684210526,
+						"Alt Animation",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						125052.631578947,
+						1,
+						236.842105263158,
+						""
+					],
+					[
+						125368.421052632,
+						0,
+						0,
+						""
+					],
+					[
+						125526.315789474,
+						3,
+						0,
+						""
+					],
+					[
+						125684.210526316,
+						0,
+						0,
+						""
+					],
+					[
+						126157.894736842,
+						2,
+						394.736842105263,
+						""
+					],
+					[
+						125842.105263158,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						126789.47368421,
+						3,
+						0,
+						""
+					],
+					[
+						126947.368421053,
+						1,
+						0,
+						""
+					],
+					[
+						127105.263157895,
+						2,
+						0,
+						""
+					],
+					[
+						127263.157894737,
+						0,
+						0,
+						""
+					],
+					[
+						127421.052631579,
+						1,
+						0,
+						""
+					],
+					[
+						127026.315789474,
+						6,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						127263.157894737,
+						5,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						127421.052631579,
+						7,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						127578.947368421,
+						7,
+						236.842105263158,
+						""
+					],
+					[
+						127894.736842105,
+						6,
+						0,
+						""
+					],
+					[
+						128052.631578947,
+						5,
+						0,
+						""
+					],
+					[
+						128210.526315789,
+						4,
+						0,
+						""
+					],
+					[
+						128368.421052632,
+						6,
+						0,
+						""
+					],
+					[
+						128605.263157895,
+						4,
+						394.736842105263,
+						""
+					],
+					[
+						127578.947368421,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						127736.842105263,
+						0,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						127894.736842105,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						128052.631578947,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						128210.526315789,
+						3,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						128526.315789474,
+						2,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						128842.105263158,
+						1,
+						394.736842105263,
+						"Alt Animation",
+						true
+					],
+					[
+						129315.789473684,
+						0,
+						710.526315789474,
+						"Alt Animation",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						132315.789473684,
+						3,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						132473.684210526,
+						1,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						133657.894736842,
+						3,
+						473.684210526316,
+						"Alt Animation",
+						true
+					],
+					[
+						132631.578947368,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						132789.47368421,
+						3,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						132947.368421052,
+						0,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						133105.263157895,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						133263.157894737,
+						1,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						134368.421052632,
+						7,
+						0,
+						""
+					],
+					[
+						134526.315789474,
+						4,
+						0,
+						""
+					],
+					[
+						134684.210526316,
+						5,
+						0,
+						""
+					],
+					[
+						134842.105263158,
+						6,
+						0,
+						""
+					],
+					[
+						135000,
+						7,
+						0,
+						""
+					],
+					[
+						134210.526315789,
+						1,
+						868.421052631579,
+						"Alt Animation",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						135157.894736842,
+						1,
+						236.842105263158,
+						""
+					],
+					[
+						135473.684210526,
+						2,
+						0,
+						""
+					],
+					[
+						135631.578947368,
+						1,
+						0,
+						""
+					],
+					[
+						135789.47368421,
+						3,
+						0,
+						""
+					],
+					[
+						135947.368421053,
+						0,
+						236.842105263158,
+						""
+					],
+					[
+						136263.157894737,
+						2,
+						315.789473684211,
+						""
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						139500,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						139894.736842105,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						140210.526315789,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						140526.315789474,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						140842.105263158,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						141157.894736842,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						141473.684210526,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						141789.47368421,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						142342.105263158,
+						0,
+						631.578947368421,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						143052.631578947,
+						1,
+						473.684210526316,
+						"",
+						true
+					],
+					[
+						143605.263157895,
+						2,
+						710.526315789474,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						144631.578947368,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						144947.368421053,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						145263.157894737,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						145578.947368421,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						145894.736842105,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						146210.526315789,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						146526.315789474,
+						2,
+						3789.47368421052,
+						"",
+						true
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						150947.368421053,
+						3,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						151263.157894737,
+						0,
+						236.842105263158,
+						"",
+						true
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						151578.947368421,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						151736.842105263,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						151894.736842105,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						152052.631578947,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						152684.210526316,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						152210.52631579,
+						0,
+						0,
+						"",
+						true
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						152842.105263158,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						153000,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						153157.894736842,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						153315.789473684,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						153947.368421053,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						153473.684210526,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						154105.263157895,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						154263.157894737,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						154421.052631579,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						154578.947368421,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						155052.631578947,
+						2,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						154736.842105263,
+						0,
+						236.842105263158,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						155368.421052632,
+						1,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						155684.210526316,
+						3,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						156000,
+						1,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						156315.789473684,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						156631.578947369,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						157263.157894737,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						157578.947368421,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						157894.736842105,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						158210.52631579,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						158526.315789474,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						158842.105263158,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						159157.894736842,
+						2,
+						1578.94736842105,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						160894.736842105,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						161052.631578948,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						161368.421052632,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						161526.315789474,
+						3,
+						394.736842105263,
+						"Alt Animation"
+					],
+					[
+						160776.315789474,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						161289.473684211,
+						1,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						162789.473684211,
+						0,
+						473.684210526316,
+						"Alt Animation"
+					],
+					[
+						162000,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						162157.894736842,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						162315.789473684,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						161684.210526316,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						161842.105263158,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						162789.473684211,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						162000,
+						0,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						162157.894736842,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						162473.684210526,
+						1,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						164052.631578947,
+						2,
+						315.789473684211,
+						"Alt Animation"
+					],
+					[
+						162947.368421053,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						163105.263157895,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						163263.157894737,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						163421.052631579,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						163578.947368421,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						164052.631578948,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						163342.105263158,
+						3,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						163736.842105263,
+						1,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						164210.52631579,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						164368.421052632,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						164526.315789474,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						164684.210526316,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						164842.105263158,
+						6,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						165157.894736842,
+						5,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						164447.368421053,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						164684.210526316,
+						0,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						165000,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						165315.789473684,
+						3,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						166421.052631579,
+						3,
+						1342.10526315789,
+						"Alt Animation",
+						true
+					],
+					[
+						165473.684210526,
+						4,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						165789.473684211,
+						6,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						166105.263157895,
+						7,
+						236.842105263158,
+						"",
+						true
+					],
+					[
+						166421.052631579,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						165947.368421053,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						166105.263157895,
+						1,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						166736.842105263,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						167368.421052632,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						167684.210526316,
+						4,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						168000,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						168315.789473684,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						168631.578947369,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						168947.368421053,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						169105.263157895,
+						0,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						169263.157894737,
+						6,
+						2447.36842105263,
+						"",
+						true
+					],
+					[
+						169263.157894737,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						169421.052631579,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						169578.947368421,
+						3,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						169736.842105263,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						169894.736842105,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						170210.52631579,
+						3,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						171631.578947369,
+						2,
+						315.789473684211,
+						"Alt Animation",
+						true
+					],
+					[
+						170526.315789474,
+						0,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						170921.052631579,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						171315.789473684,
+						0,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						172421.052631579,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						172736.842105263,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						172026.315789474,
+						5,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						172184.210526316,
+						7,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						172578.947368421,
+						5,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						172894.736842106,
+						6,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						173052.631578948,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						173368.421052632,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						173684.210526316,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						174000,
+						3,
+						552.631578947368,
+						"",
+						true
+					],
+					[
+						173526.315789474,
+						4,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						173842.105263158,
+						6,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						174157.894736842,
+						7,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						174473.684210527,
+						5,
+						394.736842105263,
+						"Alt Animation",
+						true
+					],
+					[
+						174631.578947369,
+						1,
+						2131.57894736842,
+						"",
+						true
+					],
+					[
+						174947.368421053,
+						6,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						175105.263157895,
+						4,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						175263.157894737,
+						5,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						176605.263157895,
+						5,
+						1263.15789473684,
+						"Alt Animation",
+						true
+					],
+					[
+						176131.578947369,
+						7,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						176289.473684211,
+						6,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						177473.684210527,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						177789.473684211,
+						2,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						178105.263157895,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						178421.052631579,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						178736.842105263,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						179052.631578948,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						178263.157894737,
+						3,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						178421.052631579,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						178578.947368421,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						178736.842105263,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						178894.736842106,
+						0,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						179052.631578948,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						179210.52631579,
+						1,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						179368.421052632,
+						4,
+						2447.36842105263,
+						"",
+						true
+					],
+					[
+						179368.421052632,
+						3,
+						3394.73684210526,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						183157.894736842,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						183315.789473685,
+						4,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						183473.684210527,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						183789.473684211,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						184105.263157895,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						183473.684210527,
+						6,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						183631.578947369,
+						5,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						183789.473684211,
+						6,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						183947.368421053,
+						7,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						184105.263157895,
+						5,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						184263.157894737,
+						6,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						184421.052631579,
+						4,
+						3000,
+						"Alt Animation",
+						true
+					],
+					[
+						184421.052631579,
+						3,
+						2447.36842105263,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						187578.947368421,
+						0,
+						0,
+						""
+					],
+					[
+						187736.842105263,
+						3,
+						0,
+						""
+					],
+					[
+						187894.736842105,
+						1,
+						0,
+						""
+					],
+					[
+						188052.631578947,
+						2,
+						0,
+						""
+					],
+					[
+						188052.631578948,
+						6,
+						315.789473684211,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						188526.315789474,
+						4,
+						0,
+						""
+					],
+					[
+						188684.210526316,
+						7,
+						0,
+						""
+					],
+					[
+						188842.105263158,
+						4,
+						0,
+						""
+					],
+					[
+						189000,
+						5,
+						236.842105263158,
+						""
+					],
+					[
+						189315.789473684,
+						6,
+						394.736842105263,
+						""
+					],
+					[
+						188210.52631579,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						188447.368421053,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						188684.210526316,
+						0,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						189000,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						189315.789473685,
+						3,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						189947.368421053,
+						7,
+						0,
+						""
+					],
+					[
+						190105.263157895,
+						5,
+						0,
+						""
+					],
+					[
+						190263.157894737,
+						6,
+						0,
+						""
+					],
+					[
+						190421.052631579,
+						4,
+						0,
+						""
+					],
+					[
+						190578.947368421,
+						5,
+						0,
+						""
+					],
+					[
+						190578.947368421,
+						0,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						191052.631578947,
+						6,
+						0,
+						""
+					],
+					[
+						191210.526315789,
+						5,
+						0,
+						""
+					],
+					[
+						191368.421052632,
+						4,
+						0,
+						""
+					],
+					[
+						191526.315789474,
+						6,
+						0,
+						""
+					],
+					[
+						190736.842105264,
+						7,
+						0,
+						"",
+						true
+					],
+					[
+						191763.157894737,
+						4,
+						0,
+						"",
+						true
+					],
+					[
+						190736.842105264,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						190894.736842106,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						191052.631578948,
+						3,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						191210.52631579,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						191368.421052632,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						191684.210526316,
+						3,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						192631.578947368,
+						7,
+						0,
+						""
+					],
+					[
+						192789.473684211,
+						4,
+						0,
+						""
+					],
+					[
+						192947.368421053,
+						6,
+						0,
+						""
+					],
+					[
+						193105.263157895,
+						5,
+						0,
+						""
+					],
+					[
+						192000,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						193105.263157895,
+						0,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						193263.157894737,
+						6,
+						236.842105263158,
+						""
+					],
+					[
+						193578.947368421,
+						7,
+						0,
+						""
+					],
+					[
+						193736.842105263,
+						4,
+						0,
+						""
+					],
+					[
+						193894.736842105,
+						7,
+						0,
+						""
+					],
+					[
+						194368.421052632,
+						5,
+						0,
+						"",
+						true
+					],
+					[
+						194052.631578948,
+						6,
+						0,
+						"",
+						true
+					],
+					[
+						193263.157894737,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						193421.052631579,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						193578.947368422,
+						3,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						193736.842105264,
+						1,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						193894.736842106,
+						2,
+						0,
+						"Alt Animation",
+						true
+					],
+					[
+						194210.52631579,
+						3,
+						0,
+						"Alt Animation",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						194842.105263158,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						195157.894736843,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						195473.684210527,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 148
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						195789.473684211,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						196105.263157895,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						196421.052631579,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						196736.842105264,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						196894.736842106,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						197052.631578948,
+						0,
+						0,
+						"",
+						true
+					],
+					[
+						197368.421052632,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						197526.315789474,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						197684.210526316,
+						3,
+						0,
+						"",
+						true
+					],
+					[
+						198000,
+						1,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						198315.789473685,
+						2,
+						0,
+						"",
+						true
+					],
+					[
+						198631.578947369,
+						1,
+						0,
+						"",
+						true
+					],
+					[
+						198947.368421053,
+						0,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"bpm": 148,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 173,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": false,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 173,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 173,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 173
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 173,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 173,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 173
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 173,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 173,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 173
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 162,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 162,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 162,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 162,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 162,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 162,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 162
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 120,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"changeBPM": false,
+				"bpm": 190
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"sectionBeats": 4,
+				"altAnim": false,
+				"mustHitSection": true,
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"gfSection": false,
+				"bpm": 190,
+				"changeBPM": false
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 190,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"events": [
+			[
+				3078.94736842105,
+				[
+					[
+						"lyric",
+						"Do",
+						""
+					]
+				]
+			],
+			[
+				3315.78947368421,
+				[
+					[
+						"lyric",
+						"Do you",
+						""
+					]
+				]
+			],
+			[
+				3552.63157894737,
+				[
+					[
+						"lyric",
+						"Do you have",
+						""
+					]
+				]
+			],
+			[
+				4026.31578947368,
+				[
+					[
+						"lyric",
+						"Do you have some",
+						""
+					]
+				]
+			],
+			[
+				4342.1052631579,
+				[
+					[
+						"lyric",
+						"Do you have some time",
+						""
+					]
+				]
+			],
+			[
+				4736.84210526316,
+				[
+					[
+						"lyric",
+						"Do you have some time to",
+						""
+					]
+				]
+			],
+			[
+				4894.73684210526,
+				[
+					[
+						"lyric",
+						"Do you have some time to talk?",
+						""
+					]
+				]
+			],
+			[
+				5526.31578947368,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8210.52631578947,
+				[
+					[
+						"lyric",
+						"I",
+						""
+					]
+				]
+			],
+			[
+				8368.42105263158,
+				[
+					[
+						"lyric",
+						"I don't",
+						""
+					]
+				]
+			],
+			[
+				8684.21052631579,
+				[
+					[
+						"lyric",
+						"I don't mean",
+						""
+					]
+				]
+			],
+			[
+				9315.78947368421,
+				[
+					[
+						"lyric",
+						"I don't mean to",
+						""
+					]
+				]
+			],
+			[
+				9473.68421052631,
+				[
+					[
+						"lyric",
+						"I don't mean to make",
+						""
+					]
+				]
+			],
+			[
+				9710.52631578947,
+				[
+					[
+						"lyric",
+						"I don't mean to make you",
+						""
+					]
+				]
+			],
+			[
+				10263.1578947368,
+				[
+					[
+						"lyric",
+						"I don't mean to make you stop",
+						""
+					]
+				]
+			],
+			[
+				10894.7368421053,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13105.2631578947,
+				[
+					[
+						"lyric",
+						"And",
+						""
+					]
+				]
+			],
+			[
+				13263.1578947368,
+				[
+					[
+						"lyric",
+						"And I'm",
+						""
+					]
+				]
+			],
+			[
+				13421.0526315789,
+				[
+					[
+						"lyric",
+						"And I'm so",
+						""
+					]
+				]
+			],
+			[
+				13736.8421052632,
+				[
+					[
+						"lyric",
+						"And I'm so so-",
+						""
+					]
+				]
+			],
+			[
+				14131.5789473684,
+				[
+					[
+						"lyric",
+						"And I'm so sorry",
+						""
+					]
+				]
+			],
+			[
+				14526.3157894737,
+				[
+					[
+						"lyric",
+						"And I'm so sorry if",
+						""
+					]
+				]
+			],
+			[
+				14763.1578947368,
+				[
+					[
+						"lyric",
+						"And I'm so sorry if it's",
+						""
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"lyric",
+						"And I'm so sorry if it's hard",
+						""
+					]
+				]
+			],
+			[
+				15631.5789473684,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18157.8947368421,
+				[
+					[
+						"lyric",
+						"But",
+						""
+					]
+				]
+			],
+			[
+				18315.7894736842,
+				[
+					[
+						"lyric",
+						"But I",
+						""
+					]
+				]
+			],
+			[
+				18473.6842105263,
+				[
+					[
+						"lyric",
+						"But I can't",
+						""
+					]
+				]
+			],
+			[
+				18789.4736842105,
+				[
+					[
+						"lyric",
+						"But I can't o-",
+						""
+					]
+				]
+			],
+			[
+				19263.1578947368,
+				[
+					[
+						"lyric",
+						"But I can't open",
+						""
+					]
+				]
+			],
+			[
+				19578.947368421,
+				[
+					[
+						"lyric",
+						"But I can't open up",
+						""
+					]
+				]
+			],
+			[
+				19894.7368421053,
+				[
+					[
+						"lyric",
+						"But I can't open up my",
+						""
+					]
+				]
+			],
+			[
+				20447.3684210526,
+				[
+					[
+						"lyric",
+						"But I can't open up my heart",
+						""
+					]
+				]
+			],
+			[
+				20921.0526315789,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23842.1052631579,
+				[
+					[
+						"lyric",
+						"I",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"lyric",
+						"I want",
+						""
+					]
+				]
+			],
+			[
+				24157.8947368421,
+				[
+					[
+						"lyric",
+						"I want it,",
+						""
+					]
+				]
+			],
+			[
+				24315.7894736842,
+				[
+					[
+						"lyric",
+						"I want it, I",
+						""
+					]
+				]
+			],
+			[
+				24473.6842105263,
+				[
+					[
+						"lyric",
+						"I want it, I want",
+						""
+					]
+				]
+			],
+			[
+				24631.5789473684,
+				[
+					[
+						"lyric",
+						"I want it, I want it",
+						""
+					]
+				]
+			],
+			[
+				24789.4736842105,
+				[
+					[
+						"lyric",
+						"I want it, I want it to",
+						""
+					]
+				]
+			],
+			[
+				24947.3684210526,
+				[
+					[
+						"lyric",
+						"I want it, I want it to be",
+						""
+					]
+				]
+			],
+			[
+				25263.1578947368,
+				[
+					[
+						"lyric",
+						"I want it, I want it to be real",
+						""
+					]
+				]
+			],
+			[
+				26289.4736842105,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28500,
+				[
+					[
+						"lyric",
+						"Locked",
+						""
+					]
+				]
+			],
+			[
+				28657.8947368421,
+				[
+					[
+						"lyric",
+						"Locked in",
+						""
+					]
+				]
+			],
+			[
+				28815.7894736842,
+				[
+					[
+						"lyric",
+						"Locked in a",
+						""
+					]
+				]
+			],
+			[
+				29052.6315789474,
+				[
+					[
+						"lyric",
+						"Locked in a box",
+						""
+					]
+				]
+			],
+			[
+				29526.3157894737,
+				[
+					[
+						"lyric",
+						"Locked in a box for",
+						""
+					]
+				]
+			],
+			[
+				29684.2105263158,
+				[
+					[
+						"lyric",
+						"Locked in a box for half",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"lyric",
+						"Locked in a box for half my",
+						""
+					]
+				]
+			],
+			[
+				30552.6315789474,
+				[
+					[
+						"lyric",
+						"Locked in a box for half my life",
+						""
+					]
+				]
+			],
+			[
+				31263.1578947369,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33947.3684210526,
+				[
+					[
+						"lyric",
+						"I",
+						""
+					]
+				]
+			],
+			[
+				34105.2631578947,
+				[
+					[
+						"lyric",
+						"I wish",
+						""
+					]
+				]
+			],
+			[
+				34263.1578947369,
+				[
+					[
+						"lyric",
+						"I wish that",
+						""
+					]
+				]
+			],
+			[
+				34421.052631579,
+				[
+					[
+						"lyric",
+						"I wish that you",
+						""
+					]
+				]
+			],
+			[
+				34578.9473684211,
+				[
+					[
+						"lyric",
+						"I wish that you could",
+						""
+					]
+				]
+			],
+			[
+				34736.8421052632,
+				[
+					[
+						"lyric",
+						"I wish that you could make",
+						""
+					]
+				]
+			],
+			[
+				35052.6315789474,
+				[
+					[
+						"lyric",
+						"I wish that you could make me",
+						""
+					]
+				]
+			],
+			[
+				35605.2631578947,
+				[
+					[
+						"lyric",
+						"I wish that you could make me feel",
+						""
+					]
+				]
+			],
+			[
+				36631.5789473684,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38684.2105263158,
+				[
+					[
+						"lyric",
+						"But",
+						""
+					]
+				]
+			],
+			[
+				38842.1052631579,
+				[
+					[
+						"lyric",
+						"But I'm",
+						""
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"lyric",
+						"But I'm a-",
+						""
+					]
+				]
+			],
+			[
+				39157.8947368421,
+				[
+					[
+						"lyric",
+						"But I'm adrift",
+						""
+					]
+				]
+			],
+			[
+				39631.5789473684,
+				[
+					[
+						"lyric",
+						"But I'm adrift in",
+						""
+					]
+				]
+			],
+			[
+				39789.4736842105,
+				[
+					[
+						"lyric",
+						"But I'm adrift in my",
+						""
+					]
+				]
+			],
+			[
+				40184.2105263158,
+				[
+					[
+						"lyric",
+						"But I'm adrift in my own",
+						""
+					]
+				]
+			],
+			[
+				40736.8421052632,
+				[
+					[
+						"lyric",
+						"But I'm adrift in my own time",
+						""
+					]
+				]
+			],
+			[
+				41684.2105263158,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43578.947368421,
+				[
+					[
+						"lyric",
+						"Ba-",
+						""
+					]
+				]
+			],
+			[
+				43736.8421052632,
+				[
+					[
+						"lyric",
+						"Baby,",
+						""
+					]
+				]
+			],
+			[
+				43894.7368421053,
+				[
+					[
+						"lyric",
+						"Baby, do",
+						""
+					]
+				]
+			],
+			[
+				44052.6315789474,
+				[
+					[
+						"lyric",
+						"Baby, do you",
+						""
+					]
+				]
+			],
+			[
+				44210.5263157895,
+				[
+					[
+						"lyric",
+						"Baby, do you know",
+						""
+					]
+				]
+			],
+			[
+				44526.3157894737,
+				[
+					[
+						"lyric",
+						"Baby, do you know what",
+						""
+					]
+				]
+			],
+			[
+				44684.2105263158,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you",
+						""
+					]
+				]
+			],
+			[
+				44842.1052631579,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wa-",
+						""
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wanna",
+						""
+					]
+				]
+			],
+			[
+				45315.7894736842,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wanna hear?",
+						""
+					]
+				]
+			],
+			[
+				49263.1578947368,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51236.8421052631,
+				[
+					[
+						"lyric",
+						"You",
+						""
+					]
+				]
+			],
+			[
+				51473.6842105263,
+				[
+					[
+						"lyric",
+						"You wa-",
+						""
+					]
+				]
+			],
+			[
+				51631.5789473684,
+				[
+					[
+						"lyric",
+						"You wanna",
+						""
+					]
+				]
+			],
+			[
+				51789.4736842105,
+				[
+					[
+						"lyric",
+						"You wanna feel",
+						""
+					]
+				]
+			],
+			[
+				51947.3684210526,
+				[
+					[
+						"lyric",
+						"You wanna feel it",
+						""
+					]
+				]
+			],
+			[
+				52105.2631578947,
+				[
+					[
+						"lyric",
+						"You wanna feel it but",
+						""
+					]
+				]
+			],
+			[
+				52263.1578947368,
+				[
+					[
+						"lyric",
+						"You wanna feel it but it's",
+						""
+					]
+				]
+			],
+			[
+				52421.0526315789,
+				[
+					[
+						"lyric",
+						"You wanna feel it but it's not",
+						""
+					]
+				]
+			],
+			[
+				52736.8421052631,
+				[
+					[
+						"lyric",
+						"You wanna feel it but it's not quite",
+						""
+					]
+				]
+			],
+			[
+				53052.6315789473,
+				[
+					[
+						"lyric",
+						"You wanna feel it but it's not quite the-",
+						""
+					]
+				]
+			],
+			[
+				53526.3157894737,
+				[
+					[
+						"lyric",
+						"You wanna feel it but it's not quite there",
+						""
+					]
+				]
+			],
+			[
+				54552.6315789473,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56210.5263157894,
+				[
+					[
+						"lyric",
+						"Ba-",
+						""
+					]
+				]
+			],
+			[
+				56368.4210526316,
+				[
+					[
+						"lyric",
+						"Baby,",
+						""
+					]
+				]
+			],
+			[
+				56526.3157894737,
+				[
+					[
+						"lyric",
+						"Baby, do",
+						""
+					]
+				]
+			],
+			[
+				56684.2105263158,
+				[
+					[
+						"lyric",
+						"Baby, do you",
+						""
+					]
+				]
+			],
+			[
+				56842.1052631579,
+				[
+					[
+						"lyric",
+						"Baby, do you know",
+						""
+					]
+				]
+			],
+			[
+				57157.8947368421,
+				[
+					[
+						"lyric",
+						"Baby, do you know what",
+						""
+					]
+				]
+			],
+			[
+				57315.7894736842,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you",
+						""
+					]
+				]
+			],
+			[
+				57473.6842105263,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wa-",
+						""
+					]
+				]
+			],
+			[
+				57631.5789473684,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wanna",
+						""
+					]
+				]
+			],
+			[
+				57947.3684210526,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wanna hear?",
+						""
+					]
+				]
+			],
+			[
+				58578.947368421,
+				[
+					[
+						"lyric",
+						"Cuz'",
+						""
+					]
+				]
+			],
+			[
+				58736.8421052631,
+				[
+					[
+						"lyric",
+						"Cuz' you",
+						""
+					]
+				]
+			],
+			[
+				58894.7368421052,
+				[
+					[
+						"lyric",
+						"Cuz' you can",
+						""
+					]
+				]
+			],
+			[
+				59052.6315789473,
+				[
+					[
+						"lyric",
+						"Cuz' you can say",
+						""
+					]
+				]
+			],
+			[
+				59210.5263157894,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the",
+						""
+					]
+				]
+			],
+			[
+				59368.4210526315,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word,",
+						""
+					]
+				]
+			],
+			[
+				59684.2105263158,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make",
+						""
+					]
+				]
+			],
+			[
+				59842.1052631579,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh",
+						""
+					]
+				]
+			],
+			[
+				60157.8947368421,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh so",
+						""
+					]
+				]
+			],
+			[
+				60394.7368421052,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh so clear",
+						""
+					]
+				]
+			],
+			[
+				61105.2631578947,
+				[
+					[
+						"lyric",
+						"Each",
+						""
+					]
+				]
+			],
+			[
+				61263.1578947368,
+				[
+					[
+						"lyric",
+						"Each time",
+						""
+					]
+				]
+			],
+			[
+				61421.0526315789,
+				[
+					[
+						"lyric",
+						"Each time you",
+						""
+					]
+				]
+			],
+			[
+				61578.947368421,
+				[
+					[
+						"lyric",
+						"Each time you say",
+						""
+					]
+				]
+			],
+			[
+				61736.8421052631,
+				[
+					[
+						"lyric",
+						"Each time you say my",
+						""
+					]
+				]
+			],
+			[
+				61894.7368421052,
+				[
+					[
+						"lyric",
+						"Each time you say my name,",
+						""
+					]
+				]
+			],
+			[
+				62210.5263157894,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all",
+						""
+					]
+				]
+			],
+			[
+				62368.4210526315,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the",
+						""
+					]
+				]
+			],
+			[
+				62526.3157894736,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the stars",
+						""
+					]
+				]
+			],
+			[
+				62684.2105263158,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the stars a-",
+						""
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the stars align",
+						""
+					]
+				]
+			],
+			[
+				63631.5789473684,
+				[
+					[
+						"lyric",
+						"Each",
+						""
+					]
+				]
+			],
+			[
+				63789.4736842105,
+				[
+					[
+						"lyric",
+						"Each dis-",
+						""
+					]
+				]
+			],
+			[
+				63947.3684210526,
+				[
+					[
+						"lyric",
+						"Each display",
+						""
+					]
+				]
+			],
+			[
+				64105.2631578947,
+				[
+					[
+						"lyric",
+						"Each display of",
+						""
+					]
+				]
+			],
+			[
+				64263.1578947368,
+				[
+					[
+						"lyric",
+						"Each display of roy-",
+						""
+					]
+				]
+			],
+			[
+				64421.0526315789,
+				[
+					[
+						"lyric",
+						"Each display of royals",
+						""
+					]
+				]
+			],
+			[
+				64736.8421052631,
+				[
+					[
+						"lyric",
+						"Each display of royals to,",
+						""
+					]
+				]
+			],
+			[
+				64894.7368421052,
+				[
+					[
+						"lyric",
+						"Each display of royals to, and",
+						""
+					]
+				]
+			],
+			[
+				65052.6315789473,
+				[
+					[
+						"lyric",
+						"Each display of royals to, and will",
+						""
+					]
+				]
+			],
+			[
+				65210.5263157894,
+				[
+					[
+						"lyric",
+						"Each display of royals to, and will be",
+						""
+					]
+				]
+			],
+			[
+				65526.3157894736,
+				[
+					[
+						"lyric",
+						"Each display of royals to, and will be mine",
+						""
+					]
+				]
+			],
+			[
+				66315.7894736842,
+				[
+					[
+						"lyric",
+						"Ba-",
+						""
+					]
+				]
+			],
+			[
+				66473.6842105263,
+				[
+					[
+						"lyric",
+						"Baby,",
+						""
+					]
+				]
+			],
+			[
+				66631.5789473684,
+				[
+					[
+						"lyric",
+						"Baby, do",
+						""
+					]
+				]
+			],
+			[
+				66789.4736842105,
+				[
+					[
+						"lyric",
+						"Baby, do you",
+						""
+					]
+				]
+			],
+			[
+				66947.3684210526,
+				[
+					[
+						"lyric",
+						"Baby, do you know",
+						""
+					]
+				]
+			],
+			[
+				67263.1578947368,
+				[
+					[
+						"lyric",
+						"Baby, do you know what",
+						""
+					]
+				]
+			],
+			[
+				67421.0526315789,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you",
+						""
+					]
+				]
+			],
+			[
+				67578.947368421,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wa-",
+						""
+					]
+				]
+			],
+			[
+				67736.8421052631,
+				[
+					[
+						"Jack Events",
+						"Baby, do you know what you wanna",
+						""
+					]
+				]
+			],
+			[
+				68052.6315789473,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wanna hear?",
+						""
+					]
+				]
+			],
+			[
+				68684.2105263157,
+				[
+					[
+						"lyric",
+						"Cuz'",
+						""
+					]
+				]
+			],
+			[
+				68842.1052631578,
+				[
+					[
+						"lyric",
+						"Cuz' you",
+						""
+					]
+				]
+			],
+			[
+				68999.9999999999,
+				[
+					[
+						"lyric",
+						"Cuz' you can",
+						""
+					]
+				]
+			],
+			[
+				69157.894736842,
+				[
+					[
+						"lyric",
+						"Cuz' you can say",
+						""
+					]
+				]
+			],
+			[
+				69315.7894736842,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the",
+						""
+					]
+				]
+			],
+			[
+				69473.6842105263,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word,",
+						""
+					]
+				]
+			],
+			[
+				69789.4736842105,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make",
+						""
+					]
+				]
+			],
+			[
+				69947.3684210526,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it",
+						""
+					]
+				]
+			],
+			[
+				70105.2631578947,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh",
+						""
+					]
+				]
+			],
+			[
+				70263.1578947368,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh so clear",
+						""
+					]
+				]
+			],
+			[
+				70499.9999999999,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh so clear",
+						""
+					]
+				]
+			],
+			[
+				71210.5263157894,
+				[
+					[
+						"lyric",
+						"Each",
+						""
+					]
+				]
+			],
+			[
+				71368.4210526315,
+				[
+					[
+						"lyric",
+						"Each time",
+						""
+					]
+				]
+			],
+			[
+				71526.3157894736,
+				[
+					[
+						"lyric",
+						"Each time you",
+						""
+					]
+				]
+			],
+			[
+				71684.2105263157,
+				[
+					[
+						"lyric",
+						"Each time you say",
+						""
+					]
+				]
+			],
+			[
+				71842.1052631578,
+				[
+					[
+						"lyric",
+						"Each time you say my",
+						""
+					]
+				]
+			],
+			[
+				71999.9999999999,
+				[
+					[
+						"lyric",
+						"Each time you say my name,",
+						""
+					]
+				]
+			],
+			[
+				72315.7894736842,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all",
+						""
+					]
+				]
+			],
+			[
+				72473.6842105263,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the",
+						""
+					]
+				]
+			],
+			[
+				72631.5789473684,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the stars",
+						""
+					]
+				]
+			],
+			[
+				72789.4736842105,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the stars a-",
+						""
+					]
+				]
+			],
+			[
+				73105.2631578947,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the stars align",
+						""
+					]
+				]
+			],
+			[
+				73736.8421052631,
+				[
+					[
+						"lyric",
+						"Each",
+						""
+					]
+				]
+			],
+			[
+				73894.7368421052,
+				[
+					[
+						"lyric",
+						"Each dis-",
+						""
+					]
+				]
+			],
+			[
+				74052.6315789473,
+				[
+					[
+						"lyric",
+						"Each display",
+						""
+					]
+				]
+			],
+			[
+				74210.5263157894,
+				[
+					[
+						"lyric",
+						"Each display of",
+						""
+					]
+				]
+			],
+			[
+				74368.4210526315,
+				[
+					[
+						"lyric",
+						"Each display of roy-",
+						""
+					]
+				]
+			],
+			[
+				74526.3157894736,
+				[
+					[
+						"lyric",
+						"Each display of royals",
+						""
+					]
+				]
+			],
+			[
+				74842.1052631578,
+				[
+					[
+						"lyric",
+						"Each display of royals to,",
+						""
+					]
+				]
+			],
+			[
+				74999.9999999999,
+				[
+					[
+						"lyric",
+						"Each display of royals to, and",
+						""
+					]
+				]
+			],
+			[
+				75157.894736842,
+				[
+					[
+						"lyric",
+						"Each display of royals to, and will",
+						""
+					]
+				]
+			],
+			[
+				75315.7894736841,
+				[
+					[
+						"lyric",
+						"Each display of royals to, and will be",
+						""
+					]
+				]
+			],
+			[
+				75631.5789473684,
+				[
+					[
+						"lyric",
+						"Each display of royals to, and will be my",
+						""
+					]
+				]
+			],
+			[
+				75789.4736842105,
+				[
+					[
+						"lyric",
+						"Each display of royals to, and will be my love",
+						""
+					]
+				]
+			],
+			[
+				76736.8421052631,
+				[
+					[
+						"lyric",
+						"Left",
+						""
+					]
+				]
+			],
+			[
+				77052.6315789473,
+				[
+					[
+						"lyric",
+						"Left to",
+						""
+					]
+				]
+			],
+			[
+				77210.5263157894,
+				[
+					[
+						"lyric",
+						"Left to be",
+						""
+					]
+				]
+			],
+			[
+				77368.4210526315,
+				[
+					[
+						"lyric",
+						"Left to be ca-",
+						""
+					]
+				]
+			],
+			[
+				77684.2105263157,
+				[
+					[
+						"lyric",
+						"Left to be carried",
+						""
+					]
+				]
+			],
+			[
+				77999.9999999999,
+				[
+					[
+						"lyric",
+						"To be",
+						""
+					]
+				]
+			],
+			[
+				78315.7894736841,
+				[
+					[
+						"lyric",
+						"To be wea-",
+						""
+					]
+				]
+			],
+			[
+				78631.5789473684,
+				[
+					[
+						"lyric",
+						"To be weary",
+						""
+					]
+				]
+			],
+			[
+				78947.3684210526,
+				[
+					[
+						"lyric",
+						"To",
+						""
+					]
+				]
+			],
+			[
+				79105.2631578947,
+				[
+					[
+						"lyric",
+						"To be",
+						""
+					]
+				]
+			],
+			[
+				79263.1578947368,
+				[
+					[
+						"lyric",
+						"To be che-",
+						""
+					]
+				]
+			],
+			[
+				79578.947368421,
+				[
+					[
+						"lyric",
+						"To be cherished",
+						""
+					]
+				]
+			],
+			[
+				79894.7368421052,
+				[
+					[
+						"lyric",
+						"Mis-",
+						""
+					]
+				]
+			],
+			[
+				80052.6315789473,
+				[
+					[
+						"lyric",
+						"Missing",
+						""
+					]
+				]
+			],
+			[
+				80210.5263157894,
+				[
+					[
+						"lyric",
+						"Missing you",
+						""
+					]
+				]
+			],
+			[
+				80368.4210526315,
+				[
+					[
+						"lyric",
+						"Missing you so",
+						""
+					]
+				]
+			],
+			[
+				80526.3157894736,
+				[
+					[
+						"lyric",
+						"Missing you so clo-",
+						""
+					]
+				]
+			],
+			[
+				80684.2105263157,
+				[
+					[
+						"lyric",
+						"Missing you so closely",
+						""
+					]
+				]
+			],
+			[
+				80842.1052631578,
+				[
+					[
+						"lyric",
+						"La-",
+						""
+					]
+				]
+			],
+			[
+				80999.9999999999,
+				[
+					[
+						"lyric",
+						"Lavish-",
+						""
+					]
+				]
+			],
+			[
+				81157.894736842,
+				[
+					[
+						"lyric",
+						"Lavishing;",
+						""
+					]
+				]
+			],
+			[
+				81315.7894736841,
+				[
+					[
+						"lyric",
+						"Lavishing; har-",
+						""
+					]
+				]
+			],
+			[
+				81473.6842105262,
+				[
+					[
+						"lyric",
+						"Lavishing; harvest-",
+						""
+					]
+				]
+			],
+			[
+				81631.5789473683,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting,",
+						""
+					]
+				]
+			],
+			[
+				81789.4736842104,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, co-",
+						""
+					]
+				]
+			],
+			[
+				81947.3684210526,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collect-",
+						""
+					]
+				]
+			],
+			[
+				82105.2631578947,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting",
+						""
+					]
+				]
+			],
+			[
+				82263.1578947368,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the",
+						""
+					]
+				]
+			],
+			[
+				82421.0526315789,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms",
+						""
+					]
+				]
+			],
+			[
+				82578.947368421,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of",
+						""
+					]
+				]
+			],
+			[
+				82736.8421052631,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of lo-",
+						""
+					]
+				]
+			],
+			[
+				82894.7368421052,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of loco-",
+						""
+					]
+				]
+			],
+			[
+				83052.6315789473,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of locomo-",
+						""
+					]
+				]
+			],
+			[
+				83210.5263157894,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of locomotion",
+						""
+					]
+				]
+			],
+			[
+				83368.4210526315,
+				[
+					[
+						"lyric",
+						"Lo-",
+						""
+					]
+				]
+			],
+			[
+				83526.3157894736,
+				[
+					[
+						"lyric",
+						"Loyal",
+						""
+					]
+				]
+			],
+			[
+				83684.2105263157,
+				[
+					[
+						"lyric",
+						"Loyal to",
+						""
+					]
+				]
+			],
+			[
+				83842.1052631578,
+				[
+					[
+						"lyric",
+						"Loyal to ro-",
+						""
+					]
+				]
+			],
+			[
+				83999.9999999999,
+				[
+					[
+						"lyric",
+						"Loyal to royal-",
+						""
+					]
+				]
+			],
+			[
+				84157.894736842,
+				[
+					[
+						"lyric",
+						"Loyal to royalty",
+						""
+					]
+				]
+			],
+			[
+				84315.7894736841,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at",
+						""
+					]
+				]
+			],
+			[
+				84473.6842105262,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a",
+						""
+					]
+				]
+			],
+			[
+				84631.5789473683,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee,",
+						""
+					]
+				]
+			],
+			[
+				84789.4736842104,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for",
+						""
+					]
+				]
+			],
+			[
+				84947.3684210526,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for cri-",
+						""
+					]
+				]
+			],
+			[
+				85105.2631578947,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for crimin-",
+						""
+					]
+				]
+			],
+			[
+				85263.1578947368,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for criminal",
+						""
+					]
+				]
+			],
+			[
+				85421.0526315789,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for criminal co-",
+						""
+					]
+				]
+			],
+			[
+				85578.947368421,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for criminal commo-",
+						""
+					]
+				]
+			],
+			[
+				85736.8421052631,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for criminal commotion",
+						""
+					]
+				]
+			],
+			[
+				85894.7368421052,
+				[
+					[
+						"lyric",
+						"Fact-",
+						""
+					]
+				]
+			],
+			[
+				86052.6315789473,
+				[
+					[
+						"lyric",
+						"Factu-",
+						""
+					]
+				]
+			],
+			[
+				86210.5263157894,
+				[
+					[
+						"lyric",
+						"Factual,",
+						""
+					]
+				]
+			],
+			[
+				86368.4210526315,
+				[
+					[
+						"lyric",
+						"Factual, act-",
+						""
+					]
+				]
+			],
+			[
+				86526.3157894736,
+				[
+					[
+						"lyric",
+						"Factual, actu-",
+						""
+					]
+				]
+			],
+			[
+				86684.2105263157,
+				[
+					[
+						"lyric",
+						"Factual, actual;",
+						""
+					]
+				]
+			],
+			[
+				86842.1052631578,
+				[
+					[
+						"lyric",
+						"Factual, actual; cy-",
+						""
+					]
+				]
+			],
+			[
+				86999.9999999999,
+				[
+					[
+						"lyric",
+						"Factual, actual; cyni-",
+						""
+					]
+				]
+			],
+			[
+				87157.894736842,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical",
+						""
+					]
+				]
+			],
+			[
+				87315.7894736841,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pi-",
+						""
+					]
+				]
+			],
+			[
+				87473.6842105262,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinna-",
+						""
+					]
+				]
+			],
+			[
+				87631.5789473683,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle",
+						""
+					]
+				]
+			],
+			[
+				87789.4736842104,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle lines",
+						""
+					]
+				]
+			],
+			[
+				87947.3684210525,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle lines of",
+						""
+					]
+				]
+			],
+			[
+				88105.2631578946,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle lines of tract-",
+						""
+					]
+				]
+			],
+			[
+				88263.1578947368,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle lines of traction",
+						""
+					]
+				]
+			],
+			[
+				88421.0526315789,
+				[
+					[
+						"lyric",
+						"Jea-",
+						""
+					]
+				]
+			],
+			[
+				88578.947368421,
+				[
+					[
+						"lyric",
+						"Jealou-",
+						""
+					]
+				]
+			],
+			[
+				88736.8421052631,
+				[
+					[
+						"lyric",
+						"Jealousy's",
+						""
+					]
+				]
+			],
+			[
+				88894.7368421052,
+				[
+					[
+						"lyric",
+						"Jealousy's the",
+						""
+					]
+				]
+			],
+			[
+				89052.6315789473,
+				[
+					[
+						"lyric",
+						"Jealousy's the best",
+						""
+					]
+				]
+			],
+			[
+				89210.5263157894,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of",
+						""
+					]
+				]
+			],
+			[
+				89368.4210526315,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me,",
+						""
+					]
+				]
+			],
+			[
+				89526.3157894736,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me, a",
+						""
+					]
+				]
+			],
+			[
+				89684.2105263157,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me, a ga-",
+						""
+					]
+				]
+			],
+			[
+				89842.1052631578,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me, a galle-",
+						""
+					]
+				]
+			],
+			[
+				89999.9999999999,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me, a gallery",
+						""
+					]
+				]
+			],
+			[
+				90157.894736842,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me, a gallery of",
+						""
+					]
+				]
+			],
+			[
+				90315.7894736841,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me, a gallery of trea-",
+						""
+					]
+				]
+			],
+			[
+				90473.6842105262,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me, a gallery of treache-",
+						""
+					]
+				]
+			],
+			[
+				90631.5789473683,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me, a gallery of treachery,",
+						""
+					]
+				]
+			],
+			[
+				90789.4736842104,
+				[
+					[
+						"lyric",
+						"Jealousy's the best of me, a gallery of treachery, though",
+						""
+					]
+				]
+			],
+			[
+				91105.2631578946,
+				[
+					[
+						"lyric",
+						"Lavish-",
+						""
+					]
+				]
+			],
+			[
+				91263.1578947368,
+				[
+					[
+						"lyric",
+						"Lavishing;",
+						""
+					]
+				]
+			],
+			[
+				91421.0526315789,
+				[
+					[
+						"lyric",
+						"Lavishing; har-",
+						""
+					]
+				]
+			],
+			[
+				91578.947368421,
+				[
+					[
+						"lyric",
+						"Lavishing; harvest-",
+						""
+					]
+				]
+			],
+			[
+				91736.8421052631,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting,",
+						""
+					]
+				]
+			],
+			[
+				91894.7368421052,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, co-",
+						""
+					]
+				]
+			],
+			[
+				92052.6315789473,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collect-",
+						""
+					]
+				]
+			],
+			[
+				92210.5263157894,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting",
+						""
+					]
+				]
+			],
+			[
+				92368.4210526315,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the",
+						""
+					]
+				]
+			],
+			[
+				92526.3157894736,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms",
+						""
+					]
+				]
+			],
+			[
+				92684.2105263157,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of",
+						""
+					]
+				]
+			],
+			[
+				92842.1052631578,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of lo-",
+						""
+					]
+				]
+			],
+			[
+				92999.9999999999,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of loco-",
+						""
+					]
+				]
+			],
+			[
+				93157.894736842,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of locomo-",
+						""
+					]
+				]
+			],
+			[
+				93315.7894736841,
+				[
+					[
+						"lyric",
+						"Lavishing; harvesting, collecting the forms of locomotion",
+						""
+					]
+				]
+			],
+			[
+				93473.6842105262,
+				[
+					[
+						"lyric",
+						"Lo-",
+						""
+					]
+				]
+			],
+			[
+				93631.5789473683,
+				[
+					[
+						"lyric",
+						"Loyal",
+						""
+					]
+				]
+			],
+			[
+				93789.4736842104,
+				[
+					[
+						"lyric",
+						"Loyal to",
+						""
+					]
+				]
+			],
+			[
+				93947.3684210525,
+				[
+					[
+						"lyric",
+						"Loyal to ro-",
+						""
+					]
+				]
+			],
+			[
+				94105.2631578946,
+				[
+					[
+						"lyric",
+						"Loyal to royal-",
+						""
+					]
+				]
+			],
+			[
+				94263.1578947367,
+				[
+					[
+						"lyric",
+						"Loyal to royalty",
+						""
+					]
+				]
+			],
+			[
+				94421.0526315788,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at",
+						""
+					]
+				]
+			],
+			[
+				94578.947368421,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a",
+						""
+					]
+				]
+			],
+			[
+				94736.8421052631,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee,",
+						""
+					]
+				]
+			],
+			[
+				94894.7368421052,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for",
+						""
+					]
+				]
+			],
+			[
+				95052.6315789473,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for cri-",
+						""
+					]
+				]
+			],
+			[
+				95210.5263157894,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for crimin-",
+						""
+					]
+				]
+			],
+			[
+				95368.4210526315,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for criminal",
+						""
+					]
+				]
+			],
+			[
+				95526.3157894736,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for criminal co-",
+						""
+					]
+				]
+			],
+			[
+				95684.2105263157,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for criminal commo-",
+						""
+					]
+				]
+			],
+			[
+				95842.1052631578,
+				[
+					[
+						"lyric",
+						"Loyal to royalty at a fee, for criminal commotion",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"lyric",
+						"Fact-",
+						""
+					]
+				]
+			],
+			[
+				96157.894736842,
+				[
+					[
+						"lyric",
+						"Factu-",
+						""
+					]
+				]
+			],
+			[
+				96315.7894736841,
+				[
+					[
+						"lyric",
+						"Factual,",
+						""
+					]
+				]
+			],
+			[
+				96473.6842105262,
+				[
+					[
+						"lyric",
+						"Factual, act-",
+						""
+					]
+				]
+			],
+			[
+				96631.5789473683,
+				[
+					[
+						"lyric",
+						"Factual, actu-",
+						""
+					]
+				]
+			],
+			[
+				96789.4736842104,
+				[
+					[
+						"lyric",
+						"Factual, actual;",
+						""
+					]
+				]
+			],
+			[
+				96947.3684210525,
+				[
+					[
+						"lyric",
+						"Factual, actual; cy-",
+						""
+					]
+				]
+			],
+			[
+				97105.2631578946,
+				[
+					[
+						"lyric",
+						"Factual, actual; cyni-",
+						""
+					]
+				]
+			],
+			[
+				97263.1578947367,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical",
+						""
+					]
+				]
+			],
+			[
+				97421.0526315788,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pi-",
+						""
+					]
+				]
+			],
+			[
+				97578.947368421,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinna-",
+						""
+					]
+				]
+			],
+			[
+				97736.8421052631,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle",
+						""
+					]
+				]
+			],
+			[
+				97894.7368421052,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle lines",
+						""
+					]
+				]
+			],
+			[
+				98052.6315789473,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle lines of",
+						""
+					]
+				]
+			],
+			[
+				98210.5263157894,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle lines of tract-",
+						""
+					]
+				]
+			],
+			[
+				98368.4210526315,
+				[
+					[
+						"lyric",
+						"Factual, actual; cynical pinnacle lines of traction",
+						""
+					]
+				]
+			],
+			[
+				98526.3157894736,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				99157.894736842,
+				[
+					[
+						"lyric",
+						"Ba-",
+						""
+					]
+				]
+			],
+			[
+				99315.7894736841,
+				[
+					[
+						"lyric",
+						"Baby,",
+						""
+					]
+				]
+			],
+			[
+				99473.6842105262,
+				[
+					[
+						"lyric",
+						"Baby, do",
+						""
+					]
+				]
+			],
+			[
+				99631.5789473683,
+				[
+					[
+						"lyric",
+						"Baby, do you",
+						""
+					]
+				]
+			],
+			[
+				99789.4736842104,
+				[
+					[
+						"lyric",
+						"Baby, do you know",
+						""
+					]
+				]
+			],
+			[
+				100105.263157895,
+				[
+					[
+						"lyric",
+						"Baby, do you know what",
+						""
+					]
+				]
+			],
+			[
+				100263.157894737,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you",
+						""
+					]
+				]
+			],
+			[
+				100421.052631579,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wa-",
+						""
+					]
+				]
+			],
+			[
+				100578.947368421,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wanna",
+						""
+					]
+				]
+			],
+			[
+				100894.736842105,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wanna hear?",
+						""
+					]
+				]
+			],
+			[
+				101526.315789474,
+				[
+					[
+						"lyric",
+						"Cuz'",
+						""
+					]
+				]
+			],
+			[
+				101684.210526316,
+				[
+					[
+						"lyric",
+						"Cuz' you",
+						""
+					]
+				]
+			],
+			[
+				101842.105263158,
+				[
+					[
+						"lyric",
+						"Cuz' you can",
+						""
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"lyric",
+						"Cuz' you can say",
+						""
+					]
+				]
+			],
+			[
+				102157.894736842,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the",
+						""
+					]
+				]
+			],
+			[
+				102315.789473684,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word,",
+						""
+					]
+				]
+			],
+			[
+				102631.578947368,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make",
+						""
+					]
+				]
+			],
+			[
+				102789.47368421,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it",
+						""
+					]
+				]
+			],
+			[
+				102947.368421053,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh",
+						""
+					]
+				]
+			],
+			[
+				103105.263157895,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh so-",
+						""
+					]
+				]
+			],
+			[
+				103973.684210526,
+				[
+					[
+						"lyric",
+						"Fall-",
+						""
+					]
+				]
+			],
+			[
+				104368.421052631,
+				[
+					[
+						"lyric",
+						"Falling",
+						""
+					]
+				]
+			],
+			[
+				104684.210526316,
+				[
+					[
+						"lyric",
+						"Falling in",
+						""
+					]
+				]
+			],
+			[
+				105157.894736842,
+				[
+					[
+						"lyric",
+						"Falling in and",
+						""
+					]
+				]
+			],
+			[
+				105315.789473684,
+				[
+					[
+						"lyric",
+						"Falling in and out",
+						""
+					]
+				]
+			],
+			[
+				105631.578947368,
+				[
+					[
+						"lyric",
+						"Falling in and out of",
+						""
+					]
+				]
+			],
+			[
+				105947.368421053,
+				[
+					[
+						"lyric",
+						"Falling in and out of love,",
+						""
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"lyric",
+						"Falling in and out of love, just",
+						""
+					]
+				]
+			],
+			[
+				106894.736842105,
+				[
+					[
+						"lyric",
+						"Falling in and out of love, just can't",
+						""
+					]
+				]
+			],
+			[
+				107210.526315789,
+				[
+					[
+						"lyric",
+						"Falling in and out of love, just can't seem",
+						""
+					]
+				]
+			],
+			[
+				107605.263157895,
+				[
+					[
+						"lyric",
+						"Falling in and out of love, just can't seem to",
+						""
+					]
+				]
+			],
+			[
+				107842.105263158,
+				[
+					[
+						"lyric",
+						"Falling in and out of love, just can't seem to get",
+						""
+					]
+				]
+			],
+			[
+				108157.894736842,
+				[
+					[
+						"lyric",
+						"Falling in and out of love, just can't seem to get e-",
+						""
+					]
+				]
+			],
+			[
+				108473.684210526,
+				[
+					[
+						"lyric",
+						"Falling in and out of love, just can't seem to get enough",
+						""
+					]
+				]
+			],
+			[
+				108631.578947368,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114078.947368421,
+				[
+					[
+						"lyric",
+						"Fall-",
+						""
+					]
+				]
+			],
+			[
+				114473.684210526,
+				[
+					[
+						"lyric",
+						"Falling",
+						""
+					]
+				]
+			],
+			[
+				114789.47368421,
+				[
+					[
+						"lyric",
+						"Falling in",
+						""
+					]
+				]
+			],
+			[
+				115263.157894737,
+				[
+					[
+						"lyric",
+						"Falling in and",
+						""
+					]
+				]
+			],
+			[
+				115421.052631579,
+				[
+					[
+						"lyric",
+						"Falling in and out",
+						""
+					]
+				]
+			],
+			[
+				115736.842105263,
+				[
+					[
+						"lyric",
+						"Falling in and out of",
+						""
+					]
+				]
+			],
+			[
+				116052.631578947,
+				[
+					[
+						"lyric",
+						"Falling in and out of love,",
+						""
+					]
+				]
+			],
+			[
+				116921.052631579,
+				[
+					[
+						"lyric",
+						"You",
+						""
+					]
+				]
+			],
+			[
+				117157.894736842,
+				[
+					[
+						"lyric",
+						"You wa-",
+						""
+					]
+				]
+			],
+			[
+				117315.789473684,
+				[
+					[
+						"lyric",
+						"You wanna",
+						""
+					]
+				]
+			],
+			[
+				117473.684210526,
+				[
+					[
+						"lyric",
+						"You wanna feel",
+						""
+					]
+				]
+			],
+			[
+				117631.578947368,
+				[
+					[
+						"lyric",
+						"You wanna feel it,",
+						""
+					]
+				]
+			],
+			[
+				117789.47368421,
+				[
+					[
+						"lyric",
+						"You wanna feel it, but",
+						""
+					]
+				]
+			],
+			[
+				117947.368421052,
+				[
+					[
+						"lyric",
+						"You wanna feel it, but it's",
+						""
+					]
+				]
+			],
+			[
+				118105.263157895,
+				[
+					[
+						"lyric",
+						"You wanna feel it, but it's not",
+						""
+					]
+				]
+			],
+			[
+				118421.052631579,
+				[
+					[
+						"lyric",
+						"You wanna feel it, but it's not quite",
+						""
+					]
+				]
+			],
+			[
+				118736.842105263,
+				[
+					[
+						"lyric",
+						"You wanna feel it, but it's not quite the-",
+						""
+					]
+				]
+			],
+			[
+				119210.526315789,
+				[
+					[
+						"lyric",
+						"You wanna feel it, but it's not quite there",
+						""
+					]
+				]
+			],
+			[
+				120315.789473684,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121973.684210526,
+				[
+					[
+						"lyric",
+						"You",
+						""
+					]
+				]
+			],
+			[
+				122131.578947368,
+				[
+					[
+						"lyric",
+						"You want",
+						""
+					]
+				]
+			],
+			[
+				122289.47368421,
+				[
+					[
+						"lyric",
+						"You want the",
+						""
+					]
+				]
+			],
+			[
+				122447.368421052,
+				[
+					[
+						"lyric",
+						"You want the rush",
+						""
+					]
+				]
+			],
+			[
+				122763.157894737,
+				[
+					[
+						"lyric",
+						"You want the rush of",
+						""
+					]
+				]
+			],
+			[
+				122921.052631579,
+				[
+					[
+						"lyric",
+						"You want the rush of a",
+						""
+					]
+				]
+			],
+			[
+				123078.947368421,
+				[
+					[
+						"lyric",
+						"You want the rush of a love",
+						""
+					]
+				]
+			],
+			[
+				123394.736842105,
+				[
+					[
+						"lyric",
+						"You want the rush of a love un-",
+						""
+					]
+				]
+			],
+			[
+				124105.263157895,
+				[
+					[
+						"lyric",
+						"You want the rush of a love unfair",
+						""
+					]
+				]
+			],
+			[
+				124421.052631579,
+				[
+					[
+						"lyric",
+						"Ba-",
+						""
+					]
+				]
+			],
+			[
+				124578.947368421,
+				[
+					[
+						"lyric",
+						"Baby,",
+						""
+					]
+				]
+			],
+			[
+				124736.842105263,
+				[
+					[
+						"lyric",
+						"Baby, do",
+						""
+					]
+				]
+			],
+			[
+				124894.736842105,
+				[
+					[
+						"lyric",
+						"Baby, do you",
+						""
+					]
+				]
+			],
+			[
+				125052.631578947,
+				[
+					[
+						"lyric",
+						"Baby, do you know",
+						""
+					]
+				]
+			],
+			[
+				125368.421052631,
+				[
+					[
+						"lyric",
+						"Baby, do you know what",
+						""
+					]
+				]
+			],
+			[
+				125526.315789474,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you",
+						""
+					]
+				]
+			],
+			[
+				125684.210526316,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wa-",
+						""
+					]
+				]
+			],
+			[
+				125842.105263158,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wanna",
+						""
+					]
+				]
+			],
+			[
+				126157.894736842,
+				[
+					[
+						"lyric",
+						"Baby, do you know what you wanna hear?",
+						""
+					]
+				]
+			],
+			[
+				126789.47368421,
+				[
+					[
+						"lyric",
+						"Cuz'",
+						""
+					]
+				]
+			],
+			[
+				126947.368421052,
+				[
+					[
+						"lyric",
+						"Cuz' you",
+						""
+					]
+				]
+			],
+			[
+				127026.315789474,
+				[
+					[
+						"lyric",
+						"Cuz' you",
+						"You"
+					]
+				]
+			],
+			[
+				127105.263157895,
+				[
+					[
+						"lyric",
+						"Cuz' you can",
+						"You"
+					]
+				]
+			],
+			[
+				127263.157894737,
+				[
+					[
+						"lyric",
+						"Cuz' you can say",
+						"You wa-"
+					]
+				]
+			],
+			[
+				127421.052631579,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the",
+						"You wanna"
+					]
+				]
+			],
+			[
+				127578.947368421,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word,",
+						"You wanna feel"
+					]
+				]
+			],
+			[
+				127736.842105263,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word,",
+						"You wanna feel it,"
+					]
+				]
+			],
+			[
+				127894.736842105,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make",
+						"You wanna feel it, but"
+					]
+				]
+			],
+			[
+				128052.631578947,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it",
+						"You wanna feel it, but it's"
+					]
+				]
+			],
+			[
+				128210.526315789,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh",
+						"You wanna feel it, but it's not"
+					]
+				]
+			],
+			[
+				128368.421052631,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh so",
+						"You wanna feel it, but it's not quite"
+					]
+				]
+			],
+			[
+				128526.315789474,
+				[
+					[
+						"lyric",
+						"Cuz' you can say the word, make it oh so clear",
+						"You wanna feel it, but it's not quite"
+					]
+				]
+			],
+			[
+				128842.105263158,
+				[
+					[
+						"lyric",
+						"You wanna feel it, but it's not quite the-",
+						""
+					]
+				]
+			],
+			[
+				129315.789473684,
+				[
+					[
+						"lyric",
+						"You wanna feel it, but it's not quite there",
+						""
+					]
+				]
+			],
+			[
+				130105.263157895,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132315.789473684,
+				[
+					[
+						"lyric",
+						"It'-",
+						""
+					]
+				]
+			],
+			[
+				132473.684210526,
+				[
+					[
+						"lyric",
+						"It'll",
+						""
+					]
+				]
+			],
+			[
+				132631.578947368,
+				[
+					[
+						"lyric",
+						"It'll hold",
+						""
+					]
+				]
+			],
+			[
+				132789.47368421,
+				[
+					[
+						"lyric",
+						"It'll hold you",
+						""
+					]
+				]
+			],
+			[
+				132947.368421052,
+				[
+					[
+						"lyric",
+						"It'll hold you and",
+						""
+					]
+				]
+			],
+			[
+				133105.263157895,
+				[
+					[
+						"lyric",
+						"It'll hold you and you",
+						""
+					]
+				]
+			],
+			[
+				133263.157894737,
+				[
+					[
+						"lyric",
+						"It'll hold you and you just",
+						""
+					]
+				]
+			],
+			[
+				133657.894736842,
+				[
+					[
+						"lyric",
+						"It'll hold you and you just don't",
+						""
+					]
+				]
+			],
+			[
+				134210.526315789,
+				[
+					[
+						"lyric",
+						"It'll hold you and you just don't care",
+						""
+					]
+				]
+			],
+			[
+				134368.421052631,
+				[
+					[
+						"lyric",
+						"Each",
+						""
+					]
+				]
+			],
+			[
+				134526.315789474,
+				[
+					[
+						"lyric",
+						"Each time",
+						""
+					]
+				]
+			],
+			[
+				134684.210526316,
+				[
+					[
+						"lyric",
+						"Each time you",
+						""
+					]
+				]
+			],
+			[
+				134842.105263158,
+				[
+					[
+						"lyric",
+						"Each time you say",
+						""
+					]
+				]
+			],
+			[
+				135000,
+				[
+					[
+						"lyric",
+						"Each time you say my",
+						""
+					]
+				]
+			],
+			[
+				135157.894736842,
+				[
+					[
+						"lyric",
+						"Each time you say my name,",
+						""
+					]
+				]
+			],
+			[
+				135473.684210526,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all",
+						""
+					]
+				]
+			],
+			[
+				135631.578947368,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the",
+						""
+					]
+				]
+			],
+			[
+				135789.47368421,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the stars",
+						""
+					]
+				]
+			],
+			[
+				135947.368421053,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the stars a-",
+						""
+					]
+				]
+			],
+			[
+				136263.157894737,
+				[
+					[
+						"lyric",
+						"Each time you say my name, all the stars align",
+						""
+					]
+				]
+			],
+			[
+				137684.210526316,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139500,
+				[
+					[
+						"lyric",
+						"Be",
+						""
+					]
+				]
+			],
+			[
+				139894.736842105,
+				[
+					[
+						"lyric",
+						"Be the",
+						""
+					]
+				]
+			],
+			[
+				140210.526315789,
+				[
+					[
+						"lyric",
+						"Be the ob-",
+						""
+					]
+				]
+			],
+			[
+				140526.315789474,
+				[
+					[
+						"lyric",
+						"Be the object",
+						""
+					]
+				]
+			],
+			[
+				140842.105263158,
+				[
+					[
+						"lyric",
+						"Be the object of",
+						""
+					]
+				]
+			],
+			[
+				141157.894736842,
+				[
+					[
+						"lyric",
+						"Be the object of a-",
+						""
+					]
+				]
+			],
+			[
+				141473.684210526,
+				[
+					[
+						"lyric",
+						"Be the object of affect-",
+						""
+					]
+				]
+			],
+			[
+				141789.47368421,
+				[
+					[
+						"lyric",
+						"Be the object of affection,",
+						""
+					]
+				]
+			],
+			[
+				142342.105263158,
+				[
+					[
+						"lyric",
+						"Be the object of affection, hold",
+						""
+					]
+				]
+			],
+			[
+				143052.631578947,
+				[
+					[
+						"lyric",
+						"Be the object of affection, hold me",
+						""
+					]
+				]
+			],
+			[
+				143605.263157895,
+				[
+					[
+						"lyric",
+						"Be the object of affection, hold me tight;",
+						""
+					]
+				]
+			],
+			[
+				144631.578947368,
+				[
+					[
+						"lyric",
+						"One",
+						""
+					]
+				]
+			],
+			[
+				144947.368421053,
+				[
+					[
+						"lyric",
+						"One more",
+						""
+					]
+				]
+			],
+			[
+				145263.157894737,
+				[
+					[
+						"lyric",
+						"One more chance",
+						""
+					]
+				]
+			],
+			[
+				145578.947368421,
+				[
+					[
+						"lyric",
+						"One more chance to",
+						""
+					]
+				]
+			],
+			[
+				145894.736842105,
+				[
+					[
+						"lyric",
+						"One more chance to make",
+						""
+					]
+				]
+			],
+			[
+				146210.526315789,
+				[
+					[
+						"lyric",
+						"One more chance to make it",
+						""
+					]
+				]
+			],
+			[
+				146526.315789474,
+				[
+					[
+						"lyric",
+						"One more chance to make it right",
+						""
+					]
+				]
+			],
+			[
+				150315.789473684,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				150947.368421053,
+				[
+					[
+						"lyric",
+						"Can",
+						""
+					]
+				]
+			],
+			[
+				151263.157894737,
+				[
+					[
+						"lyric",
+						"Can we",
+						""
+					]
+				]
+			],
+			[
+				151578.947368421,
+				[
+					[
+						"lyric",
+						"Can we won-",
+						""
+					]
+				]
+			],
+			[
+				151736.842105263,
+				[
+					[
+						"lyric",
+						"Can we wonder",
+						""
+					]
+				]
+			],
+			[
+				151894.736842105,
+				[
+					[
+						"lyric",
+						"Can we wonder for",
+						""
+					]
+				]
+			],
+			[
+				152052.631578947,
+				[
+					[
+						"lyric",
+						"Can we wonder for a",
+						""
+					]
+				]
+			],
+			[
+				152210.52631579,
+				[
+					[
+						"lyric",
+						"Can we wonder for a spell?",
+						""
+					]
+				]
+			],
+			[
+				152684.210526316,
+				[
+					[
+						"lyric",
+						"And",
+						""
+					]
+				]
+			],
+			[
+				152842.105263158,
+				[
+					[
+						"lyric",
+						"And live",
+						""
+					]
+				]
+			],
+			[
+				153000,
+				[
+					[
+						"lyric",
+						"And live in",
+						""
+					]
+				]
+			],
+			[
+				153157.894736842,
+				[
+					[
+						"lyric",
+						"And live in pa-",
+						""
+					]
+				]
+			],
+			[
+				153315.789473684,
+				[
+					[
+						"lyric",
+						"And live in para-",
+						""
+					]
+				]
+			],
+			[
+				153473.684210526,
+				[
+					[
+						"lyric",
+						"And live in parallel?",
+						""
+					]
+				]
+			],
+			[
+				153947.368421053,
+				[
+					[
+						"lyric",
+						"Cuz'",
+						""
+					]
+				]
+			],
+			[
+				154105.263157895,
+				[
+					[
+						"lyric",
+						"Cuz' now",
+						""
+					]
+				]
+			],
+			[
+				154263.157894737,
+				[
+					[
+						"lyric",
+						"Cuz' now I",
+						""
+					]
+				]
+			],
+			[
+				154421.052631579,
+				[
+					[
+						"lyric",
+						"Cuz' now I know",
+						""
+					]
+				]
+			],
+			[
+				154578.947368421,
+				[
+					[
+						"lyric",
+						"Cuz' now I know it's",
+						""
+					]
+				]
+			],
+			[
+				154736.842105263,
+				[
+					[
+						"lyric",
+						"Cuz' now I know it's true;",
+						""
+					]
+				]
+			],
+			[
+				155052.631578947,
+				[
+					[
+						"lyric",
+						"Cuz' now I know it's true; I'll",
+						""
+					]
+				]
+			],
+			[
+				155368.421052632,
+				[
+					[
+						"lyric",
+						"Cuz' now I know it's true; I'll be",
+						""
+					]
+				]
+			],
+			[
+				155684.210526316,
+				[
+					[
+						"lyric",
+						"Cuz' now I know it's true; I'll be like",
+						""
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"lyric",
+						"Cuz' now I know it's true; I'll be like you!",
+						""
+					]
+				]
+			],
+			[
+				156315.789473684,
+				[
+					[
+						"lyric",
+						"My",
+						""
+					]
+				]
+			],
+			[
+				156631.578947369,
+				[
+					[
+						"lyric",
+						"My heart",
+						""
+					]
+				]
+			],
+			[
+				157263.157894737,
+				[
+					[
+						"lyric",
+						"My heart beats",
+						""
+					]
+				]
+			],
+			[
+				157578.947368421,
+				[
+					[
+						"lyric",
+						"My heart beats a",
+						""
+					]
+				]
+			],
+			[
+				157894.736842105,
+				[
+					[
+						"lyric",
+						"My heart beats a rhy-",
+						""
+					]
+				]
+			],
+			[
+				158210.52631579,
+				[
+					[
+						"lyric",
+						"My heart beats a rhythm",
+						""
+					]
+				]
+			],
+			[
+				158526.315789474,
+				[
+					[
+						"lyric",
+						"My heart beats a rhythm just",
+						""
+					]
+				]
+			],
+			[
+				158842.105263158,
+				[
+					[
+						"lyric",
+						"My heart beats a rhythm just for",
+						""
+					]
+				]
+			],
+			[
+				159157.894736842,
+				[
+					[
+						"lyric",
+						"My heart beats a rhythm just for YOU!",
+						""
+					]
+				]
+			],
+			[
+				160776.315789474,
+				[
+					[
+						"lyric",
+						"Fa-",
+						""
+					]
+				]
+			],
+			[
+				160894.736842105,
+				[
+					[
+						"lyric",
+						"Fa-",
+						"And"
+					]
+				]
+			],
+			[
+				161052.631578948,
+				[
+					[
+						"lyric",
+						"Fa-",
+						"And I"
+					]
+				]
+			],
+			[
+				161289.473684211,
+				[
+					[
+						"lyric",
+						"Falling",
+						"And I"
+					]
+				]
+			],
+			[
+				161368.421052632,
+				[
+					[
+						"lyric",
+						"Falling",
+						"And I could"
+					]
+				]
+			],
+			[
+				161526.315789474,
+				[
+					[
+						"lyric",
+						"Falling in",
+						"And I could"
+					]
+				]
+			],
+			[
+				161684.210526316,
+				[
+					[
+						"lyric",
+						"Falling in",
+						"And I could leave"
+					]
+				]
+			],
+			[
+				161842.105263158,
+				[
+					[
+						"lyric",
+						"Falling in",
+						"And I could leave it"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"lyric",
+						"Falling in and",
+						"And I could leave it on"
+					]
+				]
+			],
+			[
+				162157.894736842,
+				[
+					[
+						"lyric",
+						"Falling in and out",
+						"And I could leave it on the"
+					]
+				]
+			],
+			[
+				162315.789473684,
+				[
+					[
+						"lyric",
+						"Falling in and out",
+						"And I could leave it on the shelf,"
+					]
+				]
+			],
+			[
+				162473.684210526,
+				[
+					[
+						"lyric",
+						"Falling in and out of",
+						"And I could leave it on the shelf,"
+					]
+				]
+			],
+			[
+				162789.473684211,
+				[
+					[
+						"lyric",
+						"Falling in and out of love",
+						"And I could leave it on the shelf, or"
+					]
+				]
+			],
+			[
+				162947.368421053,
+				[
+					[
+						"lyric",
+						"Falling in and out of love",
+						"And I could leave it on the shelf, or keep"
+					]
+				]
+			],
+			[
+				163105.263157895,
+				[
+					[
+						"lyric",
+						"Falling in and out of love",
+						"And I could leave it on the shelf, or keep it"
+					]
+				]
+			],
+			[
+				163263.157894737,
+				[
+					[
+						"lyric",
+						"Falling in and out of love",
+						"And I could leave it on the shelf, or keep it to"
+					]
+				]
+			],
+			[
+				163342.105263158,
+				[
+					[
+						"lyric",
+						"Just",
+						"And I could leave it on the shelf, or keep it to"
+					]
+				]
+			],
+			[
+				163421.052631579,
+				[
+					[
+						"lyric",
+						"Just",
+						"And I could leave it on the shelf, or keep it to my-"
+					]
+				]
+			],
+			[
+				163578.947368421,
+				[
+					[
+						"lyric",
+						"Just",
+						"And I could leave it on the shelf, or keep it to myself"
+					]
+				]
+			],
+			[
+				163736.842105263,
+				[
+					[
+						"lyric",
+						"Just can't",
+						"And I could leave it on the shelf, or keep it to myself"
+					]
+				]
+			],
+			[
+				164052.631578948,
+				[
+					[
+						"lyric",
+						"Just can't seem",
+						"But"
+					]
+				]
+			],
+			[
+				164210.52631579,
+				[
+					[
+						"lyric",
+						"Just can't seem",
+						"But no-"
+					]
+				]
+			],
+			[
+				164368.421052632,
+				[
+					[
+						"lyric",
+						"Just can't seem",
+						"But nothing"
+					]
+				]
+			],
+			[
+				164447.368421053,
+				[
+					[
+						"lyric",
+						"Just can't seem to",
+						"But nothing"
+					]
+				]
+			],
+			[
+				164526.315789474,
+				[
+					[
+						"lyric",
+						"Just can't seem to",
+						"But nothing could"
+					]
+				]
+			],
+			[
+				164684.210526316,
+				[
+					[
+						"lyric",
+						"Just can't seem to get",
+						"But nothing could con-"
+					]
+				]
+			],
+			[
+				164842.105263158,
+				[
+					[
+						"lyric",
+						"Just can't seem to get",
+						"But nothing could conceal"
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"lyric",
+						"Just can't seem to get e-",
+						"But nothing could conceal"
+					]
+				]
+			],
+			[
+				165157.894736842,
+				[
+					[
+						"lyric",
+						"Just can't seem to get e-",
+						"But nothing could conceal the"
+					]
+				]
+			],
+			[
+				165315.789473684,
+				[
+					[
+						"lyric",
+						"Just can't seem to get enough",
+						"But nothing could conceal the"
+					]
+				]
+			],
+			[
+				165473.684210526,
+				[
+					[
+						"lyric",
+						"Just can't seem to get enough",
+						"But nothing could conceal the things"
+					]
+				]
+			],
+			[
+				165789.473684211,
+				[
+					[
+						"lyric",
+						"Just can't seem to get enough",
+						"But nothing could conceal the things I"
+					]
+				]
+			],
+			[
+				165947.368421053,
+				[
+					[
+						"lyric",
+						"Of",
+						"But nothing could conceal the things I"
+					]
+				]
+			],
+			[
+				166105.263157895,
+				[
+					[
+						"lyric",
+						"Of both",
+						"But nothing could conceal the things I feel"
+					]
+				]
+			],
+			[
+				166421.052631579,
+				[
+					[
+						"lyric",
+						"Of both sides",
+						"My"
+					]
+				]
+			],
+			[
+				166736.842105263,
+				[
+					[
+						"lyric",
+						"Of both sides",
+						"My love,"
+					]
+				]
+			],
+			[
+				167368.421052632,
+				[
+					[
+						"lyric",
+						"Of both sides",
+						"My love, I"
+					]
+				]
+			],
+			[
+				167684.210526316,
+				[
+					[
+						"lyric",
+						"Of both sides",
+						"My love, I give"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"lyric",
+						"Of both sides",
+						"My love, I give you"
+					]
+				]
+			],
+			[
+				168315.789473684,
+				[
+					[
+						"lyric",
+						"Of both sides",
+						"My love, I give you my"
+					]
+				]
+			],
+			[
+				168631.578947369,
+				[
+					[
+						"lyric",
+						"Of both sides",
+						"My love, I give you my grand"
+					]
+				]
+			],
+			[
+				168947.368421053,
+				[
+					[
+						"lyric",
+						"Of both sides",
+						"My love, I give you my grand re-"
+					]
+				]
+			],
+			[
+				169105.263157895,
+				[
+					[
+						"lyric",
+						"Cuz'",
+						"My love, I give you my grand re-"
+					]
+				]
+			],
+			[
+				169263.157894737,
+				[
+					[
+						"lyric",
+						"Cuz' all",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				169421.052631579,
+				[
+					[
+						"lyric",
+						"Cuz' all I",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				169578.947368421,
+				[
+					[
+						"lyric",
+						"Cuz' all I ev-",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				169736.842105263,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				169894.736842105,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				170210.52631579,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do is",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				170526.315789474,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do is watch",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				170921.052631579,
+				[
+					[
+						"lyric",
+						"God,",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				171315.789473684,
+				[
+					[
+						"lyric",
+						"God, I",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				171631.578947369,
+				[
+					[
+						"lyric",
+						"God, I need",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				172026.315789474,
+				[
+					[
+						"lyric",
+						"God, I need to",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				172184.210526316,
+				[
+					[
+						"lyric",
+						"God, I need to feel",
+						"My love, I give you my grand reveal!"
+					]
+				]
+			],
+			[
+				172421.052631579,
+				[
+					[
+						"lyric",
+						"God, I need to feel",
+						"Do"
+					]
+				]
+			],
+			[
+				172578.947368421,
+				[
+					[
+						"lyric",
+						"God, I need to feel your",
+						"Do"
+					]
+				]
+			],
+			[
+				172736.842105263,
+				[
+					[
+						"lyric",
+						"God, I need to feel your",
+						"Do you"
+					]
+				]
+			],
+			[
+				172894.736842106,
+				[
+					[
+						"lyric",
+						"God, I need to feel your touch",
+						"Do you"
+					]
+				]
+			],
+			[
+				173052.631578948,
+				[
+					[
+						"lyric",
+						"God, I need to feel your touch",
+						"Do you feel"
+					]
+				]
+			],
+			[
+				173368.421052632,
+				[
+					[
+						"lyric",
+						"God, I need to feel your touch",
+						"Do you feel the"
+					]
+				]
+			],
+			[
+				173526.315789474,
+				[
+					[
+						"lyric",
+						"I'm",
+						"Do you feel the"
+					]
+				]
+			],
+			[
+				173684.210526316,
+				[
+					[
+						"lyric",
+						"I'm",
+						"Do you feel the things"
+					]
+				]
+			],
+			[
+				173842.105263158,
+				[
+					[
+						"lyric",
+						"I'm a",
+						"Do you feel the things"
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"lyric",
+						"I'm a",
+						"Do you feel the things I"
+					]
+				]
+			],
+			[
+				174157.894736842,
+				[
+					[
+						"lyric",
+						"I'm a god-",
+						"Do you feel the things I"
+					]
+				]
+			],
+			[
+				174473.684210527,
+				[
+					[
+						"lyric",
+						"I'm a goddamn",
+						"Do you feel the things I"
+					]
+				]
+			],
+			[
+				174631.578947369,
+				[
+					[
+						"lyric",
+						"I'm a goddamn",
+						"Do you feel the things I feel?"
+					]
+				]
+			],
+			[
+				174947.368421053,
+				[
+					[
+						"lyric",
+						"I'm a goddamn i-",
+						"Do you feel the things I feel?"
+					]
+				]
+			],
+			[
+				175105.263157895,
+				[
+					[
+						"lyric",
+						"I'm a goddamn idi-",
+						"Do you feel the things I feel?"
+					]
+				]
+			],
+			[
+				175263.157894737,
+				[
+					[
+						"lyric",
+						"I'm a goddamn idiot,",
+						"Do you feel the things I feel?"
+					]
+				]
+			],
+			[
+				176131.578947369,
+				[
+					[
+						"lyric",
+						"I'm a goddamn idiot, for",
+						"Do you feel the things I feel?"
+					]
+				]
+			],
+			[
+				176289.473684211,
+				[
+					[
+						"lyric",
+						"I'm a goddamn idiot, for this",
+						"Do you feel the things I feel?"
+					]
+				]
+			],
+			[
+				176605.263157895,
+				[
+					[
+						"lyric",
+						"I'm a goddamn idiot, for this time",
+						"Do you feel the things I feel?"
+					]
+				]
+			],
+			[
+				177473.684210527,
+				[
+					[
+						"lyric",
+						"I'm a goddamn idiot, for this time",
+						"I"
+					]
+				]
+			],
+			[
+				177789.473684211,
+				[
+					[
+						"lyric",
+						"I'm a goddamn idiot, for this time",
+						"I AM"
+					]
+				]
+			],
+			[
+				178105.263157895,
+				[
+					[
+						"lyric",
+						"I'm a goddamn idiot, for this time",
+						"I AM DE-"
+					]
+				]
+			],
+			[
+				178263.157894737,
+				[
+					[
+						"lyric",
+						"I",
+						"I AM DE-"
+					]
+				]
+			],
+			[
+				178421.052631579,
+				[
+					[
+						"lyric",
+						"I WA-",
+						"I AM DEFIN-"
+					]
+				]
+			],
+			[
+				178578.947368421,
+				[
+					[
+						"lyric",
+						"I WANNA",
+						"I AM DEFIN-"
+					]
+				]
+			],
+			[
+				178736.842105263,
+				[
+					[
+						"lyric",
+						"I WANNA MEET",
+						"I AM DEFINITE"
+					]
+				]
+			],
+			[
+				178894.736842106,
+				[
+					[
+						"lyric",
+						"I WANNA MEET YOU",
+						"I AM DEFINITE"
+					]
+				]
+			],
+			[
+				179052.631578948,
+				[
+					[
+						"lyric",
+						"I WANNA MEET YOU IN",
+						"I AM DEFINITE AND"
+					]
+				]
+			],
+			[
+				179210.52631579,
+				[
+					[
+						"lyric",
+						"I WANNA MEET YOU IN THE",
+						"I AM DEFINITE AND"
+					]
+				]
+			],
+			[
+				179368.421052632,
+				[
+					[
+						"lyric",
+						"I WANNA MEET YOU IN THE MIDDLE!",
+						"I AM DEFINITE AND REAL!"
+					]
+				]
+			],
+			[
+				182605.263157895,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183157.894736842,
+				[
+					[
+						"lyric",
+						"",
+						"DE-"
+					]
+				]
+			],
+			[
+				183315.789473685,
+				[
+					[
+						"lyric",
+						"I",
+						"DE-"
+					]
+				]
+			],
+			[
+				183473.684210527,
+				[
+					[
+						"lyric",
+						"I WA-",
+						"DEFIN-"
+					]
+				]
+			],
+			[
+				183631.578947369,
+				[
+					[
+						"lyric",
+						"I WANNA",
+						"DEFIN-"
+					]
+				]
+			],
+			[
+				183789.473684211,
+				[
+					[
+						"lyric",
+						"I WANNA MEET",
+						"DEFINITE"
+					]
+				]
+			],
+			[
+				183947.368421053,
+				[
+					[
+						"lyric",
+						"I WANNA MEET YOU",
+						"DEFINITE"
+					]
+				]
+			],
+			[
+				184105.263157895,
+				[
+					[
+						"lyric",
+						"I WANNA MEET YOU IN",
+						"DEFINITE AND"
+					]
+				]
+			],
+			[
+				184263.157894737,
+				[
+					[
+						"lyric",
+						"I WANNA MEET YOU IN THE",
+						"DEFINITE AND"
+					]
+				]
+			],
+			[
+				184421.052631579,
+				[
+					[
+						"lyric",
+						"I WANNA MEET YOU IN THE MIDDLE...",
+						"DEFINITE AND REAL!"
+					]
+				]
+			],
+			[
+				187578.947368421,
+				[
+					[
+						"lyric",
+						"",
+						"Ba-"
+					]
+				]
+			],
+			[
+				187736.842105264,
+				[
+					[
+						"lyric",
+						"",
+						"Baby,"
+					]
+				]
+			],
+			[
+				187894.736842106,
+				[
+					[
+						"lyric",
+						"",
+						"Baby, do"
+					]
+				]
+			],
+			[
+				188052.631578948,
+				[
+					[
+						"lyric",
+						"-seems",
+						"Baby, do you"
+					]
+				]
+			],
+			[
+				188210.52631579,
+				[
+					[
+						"lyric",
+						"-seems",
+						"Baby, do you know"
+					]
+				]
+			],
+			[
+				188447.368421053,
+				[
+					[
+						"lyric",
+						"-seems to",
+						"Baby, do you know"
+					]
+				]
+			],
+			[
+				188526.315789474,
+				[
+					[
+						"lyric",
+						"-seems to",
+						"Baby, do you know what"
+					]
+				]
+			],
+			[
+				188684.210526316,
+				[
+					[
+						"lyric",
+						"-seems to get",
+						"Baby, do you know what you"
+					]
+				]
+			],
+			[
+				188842.105263158,
+				[
+					[
+						"lyric",
+						"-seems to get",
+						"Baby, do you know what you wa-"
+					]
+				]
+			],
+			[
+				189000,
+				[
+					[
+						"lyric",
+						"-seems to get e-",
+						"Baby, do you know what you wanna"
+					]
+				]
+			],
+			[
+				189315.789473685,
+				[
+					[
+						"lyric",
+						"-seems to get enough",
+						"Baby, do you know what you wanna hear?"
+					]
+				]
+			],
+			[
+				189947.368421053,
+				[
+					[
+						"lyric",
+						"",
+						"Cuz'"
+					]
+				]
+			],
+			[
+				190105.263157895,
+				[
+					[
+						"lyric",
+						"",
+						"Cuz' you"
+					]
+				]
+			],
+			[
+				190263.157894737,
+				[
+					[
+						"lyric",
+						"",
+						"Cuz' you can"
+					]
+				]
+			],
+			[
+				190421.052631579,
+				[
+					[
+						"lyric",
+						"",
+						"Cuz' you can say"
+					]
+				]
+			],
+			[
+				190578.947368421,
+				[
+					[
+						"lyric",
+						"Cuz'",
+						"Cuz' you can say the"
+					]
+				]
+			],
+			[
+				190736.842105264,
+				[
+					[
+						"lyric",
+						"Cuz' all",
+						"Cuz' you can say the word,"
+					]
+				]
+			],
+			[
+				190894.736842106,
+				[
+					[
+						"lyric",
+						"Cuz' all I",
+						"Cuz' you can say the"
+					]
+				]
+			],
+			[
+				191052.631578948,
+				[
+					[
+						"lyric",
+						"Cuz' all I ev-",
+						"Cuz' you can say the word, make"
+					]
+				]
+			],
+			[
+				191210.52631579,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever",
+						"Cuz' you can say the word, make it"
+					]
+				]
+			],
+			[
+				191368.421052632,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do",
+						"Cuz' you can say the word, make it oh"
+					]
+				]
+			],
+			[
+				191526.315789474,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do",
+						"Cuz' you can say the word, make it oh so"
+					]
+				]
+			],
+			[
+				191684.210526316,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do is",
+						"Cuz' you can say the word, make it oh so"
+					]
+				]
+			],
+			[
+				191763.157894737,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do is",
+						"Cuz' you can say the word, make it oh so clear"
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do is watch",
+						"Cuz' you can say the word, make it oh so clear"
+					]
+				]
+			],
+			[
+				192631.578947369,
+				[
+					[
+						"lyric",
+						"",
+						"Ba-"
+					]
+				]
+			],
+			[
+				192789.473684211,
+				[
+					[
+						"lyric",
+						"",
+						"Baby,"
+					]
+				]
+			],
+			[
+				192947.368421053,
+				[
+					[
+						"lyric",
+						"",
+						"Baby, do"
+					]
+				]
+			],
+			[
+				193105.263157895,
+				[
+					[
+						"lyric",
+						"Cuz'",
+						"Baby, do you"
+					]
+				]
+			],
+			[
+				193263.157894737,
+				[
+					[
+						"lyric",
+						"Cuz' all",
+						"Baby, do you know"
+					]
+				]
+			],
+			[
+				193421.052631579,
+				[
+					[
+						"lyric",
+						"Cuz' all I",
+						"Baby, do you know"
+					]
+				]
+			],
+			[
+				193578.947368422,
+				[
+					[
+						"lyric",
+						"Cuz' all I ev-",
+						"Baby, do you know what"
+					]
+				]
+			],
+			[
+				193736.842105264,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever",
+						"Baby, do you know what you"
+					]
+				]
+			],
+			[
+				193894.736842106,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do",
+						"Baby, do you know what you wa-"
+					]
+				]
+			],
+			[
+				194052.631578948,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do",
+						"Baby, do you know what you wanna"
+					]
+				]
+			],
+			[
+				194210.52631579,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do is-",
+						"Baby, do you know what you wanna he-"
+					]
+				]
+			],
+			[
+				194368.421052632,
+				[
+					[
+						"lyric",
+						"Cuz' all I ever do is-",
+						"Baby, do you know what you wanna he-"
+					]
+				]
+			],
+			[
+				194526.315789474,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				194842.105263158,
+				[
+					[
+						"lyric",
+						"As",
+						""
+					]
+				]
+			],
+			[
+				195157.894736843,
+				[
+					[
+						"lyric",
+						"As long",
+						""
+					]
+				]
+			],
+			[
+				195473.684210527,
+				[
+					[
+						"lyric",
+						"As long as",
+						""
+					]
+				]
+			],
+			[
+				195789.473684211,
+				[
+					[
+						"lyric",
+						"As long as there",
+						""
+					]
+				]
+			],
+			[
+				196105.263157895,
+				[
+					[
+						"lyric",
+						"As long as there are",
+						""
+					]
+				]
+			],
+			[
+				196421.052631579,
+				[
+					[
+						"lyric",
+						"As long as there are stars",
+						""
+					]
+				]
+			],
+			[
+				196736.842105264,
+				[
+					[
+						"lyric",
+						"As long as there are stars up",
+						""
+					]
+				]
+			],
+			[
+				196894.736842106,
+				[
+					[
+						"lyric",
+						"As long as there are stars up a-",
+						""
+					]
+				]
+			],
+			[
+				197052.631578948,
+				[
+					[
+						"lyric",
+						"As long as there are stars up above,",
+						""
+					]
+				]
+			],
+			[
+				197368.421052632,
+				[
+					[
+						"lyric",
+						"As long as there are stars up above, I",
+						""
+					]
+				]
+			],
+			[
+				197526.315789474,
+				[
+					[
+						"lyric",
+						"As long as there are stars up above, I will",
+						""
+					]
+				]
+			],
+			[
+				197684.210526316,
+				[
+					[
+						"lyric",
+						"As long as there are stars up above, I will al-",
+						""
+					]
+				]
+			],
+			[
+				198000,
+				[
+					[
+						"lyric",
+						"As long as there are stars up above, I will always",
+						""
+					]
+				]
+			],
+			[
+				198315.789473685,
+				[
+					[
+						"lyric",
+						"As long as there are stars up above, I will always sing,",
+						""
+					]
+				]
+			],
+			[
+				198631.578947369,
+				[
+					[
+						"lyric",
+						"As long as there are stars up above, I will always sing, my",
+						""
+					]
+				]
+			],
+			[
+				198947.368421053,
+				[
+					[
+						"lyric",
+						"As long as there are stars up above, I will always sing, my love!",
+						""
+					]
+				]
+			],
+			[
+				199578.947368422,
+				[
+					[
+						"lyric",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"player2": "teto",
+		"keys": 4,
+		"splashSkin": "noteSplashes",
+		"song": "Companion",
+		"needsVoices": true,
+		"arrowSkin": "",
+		"stage": "canvas",
+		"validScore": true,
+		"lanes": 2,
+		"bpm": 190,
+		"speed": 2.7
+	}
+}

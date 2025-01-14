@@ -32,7 +32,6 @@ class FreeplayState extends MusicBeatState
 
 	public var scoreBG:FlxSprite;
 	public var scoreText:FlxText;
-	public var diffText:FlxText;
 	public var lerpScore:Int = 0;
 	public var lerpRating:Float = 0;
 	public var intendedScore:Int = 0;
@@ -45,6 +44,15 @@ class FreeplayState extends MusicBeatState
 
 	public var bg:FlxSprite;
 	public var intendedColor:Int;
+
+	var weekBG:FlxSprite;
+	var weekText:FlxText;
+	private static var curWeek:Int = 0;
+	var loadedWeeks:Array<WeekData> = [];
+
+	var leftButton:FlxSprite;
+	var rightButton:FlxSprite;
+
 
 	override function create()
 	{
@@ -60,31 +68,34 @@ class FreeplayState extends MusicBeatState
 		DiscordClient.changePresence("In the Menus", null);
 		#end
 
+		var leWeek:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[curWeek]);
+		var leSongs:Array<String> = [];
+		var leChars:Array<String> = [];
+
+		for (j in 0...leWeek.songs.length)
+		{
+			leSongs.push(leWeek.songs[j][0]);
+			leChars.push(leWeek.songs[j][1]);
+		}
+
+		WeekData.setDirectoryFromWeek(leWeek);
+		for (song in leWeek.songs)
+		{
+			var colors:Array<Int> = song[2];
+			if(colors == null || colors.length < 3)
+			{
+				colors = [146, 113, 253];
+			}
+			addSong(song[0], 0, song[1], FlxColor.fromRGB(colors[0], colors[1], colors[2]));
+		}
+
 		for (i in 0...WeekData.weeksList.length)
 		{
-			if (weekIsLocked(WeekData.weeksList[i])) continue;
-
-			var leWeek:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[i]);
-			var leSongs:Array<String> = [];
-			var leChars:Array<String> = [];
-
-			for (j in 0...leWeek.songs.length)
-			{
-				leSongs.push(leWeek.songs[j][0]);
-				leChars.push(leWeek.songs[j][1]);
-			}
-
-			WeekData.setDirectoryFromWeek(leWeek);
-			for (song in leWeek.songs)
-			{
-				var colors:Array<Int> = song[2];
-				if (colors == null || colors.length < 3)
-				{
-					colors = [146, 113, 253];
-				}
-				addSong(song[0], i, song[1], FlxColor.fromRGB(colors[0], colors[1], colors[2]));
-			}
+			var weekFile:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[i]);
+			loadedWeeks.push(weekFile);
+			WeekData.setDirectoryFromWeek(weekFile);
 		}
+		WeekData.setDirectoryFromWeek(loadedWeeks[0]);
 		WeekData.loadTheFirstEnabledMod();
 
 		setUpScript('FreeplayState');
@@ -107,6 +118,7 @@ class FreeplayState extends MusicBeatState
 			{
 				var songText:Alphabet = new Alphabet(0, (70 * i) + 30, songs[i].songName, true, false);
 				songText.isMenuItem = true;
+				songText.centeredMenuItem = true;
 				songText.targetY = i;
 				grpSongs.add(songText);
 
@@ -136,13 +148,18 @@ class FreeplayState extends MusicBeatState
 			scoreText = new FlxText(FlxG.width * 0.7, 5, 0, "", 32);
 			scoreText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, RIGHT);
 
-			scoreBG = new FlxSprite(scoreText.x - 6, 0).makeGraphic(1, 66, 0xFF000000);
+			scoreBG = new FlxSprite(scoreText.x - 6, 0).makeGraphic(1, 42, 0xFF000000);
 			scoreBG.alpha = 0.6;
 			add(scoreBG);
 
-			diffText = new FlxText(scoreText.x, scoreText.y + 36, 0, "", 24);
-			diffText.font = scoreText.font;
-			add(diffText);
+			weekText = new FlxText(5, 30, 0, "", 32);
+			weekText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+			weekText.borderSize = 2;
+
+			weekBG = new FlxSprite(-1, 25).makeGraphic(1, 42, 0xFF000000);
+			weekBG.alpha = 0.6;
+			add(weekBG);
+			add(weekText);
 
 			add(scoreText);
 
@@ -180,6 +197,27 @@ class FreeplayState extends MusicBeatState
 			debugTxt.setFormat(Paths.font("vcr.ttf"), 36, FlxColor.WHITE, CENTER, OUTLINE_FAST, FlxColor.BLACK);
 			debugTxt.screenCenter(Y);
 			add(debugTxt);
+
+			weekBG = new FlxSprite(-1, 25).makeGraphic(1, 42, 0xFF000000);
+			weekBG.alpha = 0.6;
+			add(weekBG);
+
+			leftButton = new FlxSprite();
+			leftButton.frames = Paths.getSparrowAtlas("mainmenu/button_left");
+			leftButton.animation.addByPrefix("idle", "left0", 10, true);
+			leftButton.animation.addByPrefix("hover", "left hover0", 10, true);
+			leftButton.animation.play("idle");
+			leftButton.screenCenter(Y);
+			add(leftButton);
+	
+			rightButton = new FlxSprite();
+			rightButton.frames = Paths.getSparrowAtlas("mainmenu/button_right");
+			rightButton.animation.addByPrefix("idle", "right0", 10, true);
+			rightButton.animation.addByPrefix("hover", "right hover0", 10, true);
+			rightButton.animation.play("idle");
+			rightButton.screenCenter(Y);
+			rightButton.x = FlxG.width - rightButton.width;
+			add(rightButton);
 
 			changeSelection();
 			changeDiff();
@@ -237,7 +275,9 @@ class FreeplayState extends MusicBeatState
 		}
 
 		if (isHardcodedState())
-		{
+		{	
+			weekText.text = 'TWEAKMAS ${curWeek + 1}';
+
 			lerpScore = Math.floor(FlxMath.lerp(lerpScore, intendedScore, FlxMath.bound(elapsed * 24, 0, 1)));
 			lerpRating = FlxMath.lerp(lerpRating, intendedRating, FlxMath.bound(elapsed * 12, 0, 1));
 
@@ -263,6 +303,9 @@ class FreeplayState extends MusicBeatState
 
 			if (songs.length > 1)
 			{
+				var leftP = controls.UI_LEFT_P;
+				var rightP = controls.UI_RIGHT_P;
+		
 				if (controls.UI_UP_P)
 				{
 					changeSelection(-shiftMult);
@@ -272,6 +315,20 @@ class FreeplayState extends MusicBeatState
 				{
 					changeSelection(shiftMult);
 					holdTime = 0;
+				}
+				if(rightP){
+					rightButton.animation.play("hover");
+					new FlxTimer().start(0.125, (tmr)->{
+						rightButton.animation.play("idle");
+					});
+					changeWeek(1);
+				}
+				if(leftP){
+					leftButton.animation.play("hover");
+					new FlxTimer().start(0.125, (tmr)->{
+						leftButton.animation.play("idle");
+					});
+					changeWeek(-1);
 				}
 
 				if (controls.UI_DOWN || controls.UI_UP)
@@ -354,8 +411,6 @@ class FreeplayState extends MusicBeatState
 					return;
 				}
 
-				trace('CURRENT WEEK: ' + WeekData.getWeekFileName());
-
 				FlxTween.cancelTweensOf(bg, ['color']);
 
 				if (FlxG.keys.pressed.SHIFT)
@@ -380,6 +435,76 @@ class FreeplayState extends MusicBeatState
 		}
 
 		super.update(elapsed);
+	}
+
+	function changeWeek(change:Int = 0){
+		curWeek += change;
+
+		if (curWeek >= loadedWeeks.length)
+			curWeek = 0;
+		if (curWeek < 0)
+			curWeek = loadedWeeks.length - 1;	
+
+		var leWeek:WeekData = loadedWeeks[curWeek];
+		WeekData.setDirectoryFromWeek(leWeek);
+
+		loadWeekSongs(leWeek);
+	}
+
+	function loadWeekSongs(week:WeekData){
+		curSelected = 0;
+		songs = [];
+		grpSongs.clear();
+		if(iconArray.length > 0){
+			for(icon in iconArray){
+				icon.destroy();
+			}
+		}
+		iconArray = [];
+
+		for (song in week.songs)
+		{
+			var colors:Array<Int> = song[2];
+			if(colors == null || colors.length < 3)
+			{
+				colors = [146, 113, 253];
+			}
+			addSong(song[0], curWeek, song[1], FlxColor.fromRGB(colors[0], colors[1], colors[2]));
+		}
+
+
+		for (i in 0...songs.length)
+		{
+			var songText:Alphabet = new Alphabet(0, (70 * i) + 30, songs[i].songName, true, false);
+			songText.isMenuItem = true;
+			songText.centeredMenuItem = true;
+			songText.targetY = i;
+			grpSongs.add(songText);
+
+			if (songText.width > 980)
+			{
+				var textScale:Float = 980 / songText.width;
+				songText.scale.x = textScale;
+				for (letter in songText.lettersArray)
+				{
+					letter.x *= textScale;
+					letter.offset.x *= textScale;
+				}
+			}
+
+			Paths.currentModDirectory = songs[i].folder;
+			var icon:HealthIcon = new HealthIcon(songs[i].songCharacter);
+			icon.sprTracker = songText;
+
+			// using a FlxGroup is too much fuss!
+			iconArray.push(icon);
+			insert(members.indexOf(grpSongs) + 1, icon);
+
+			// DONT PUT X IN THE FIRST PARAMETER OF new ALPHABET() !!
+		}
+		WeekData.setDirectoryFromWeek();
+
+		changeSelection(0, false);
 	}
 
 	public static function destroyFreeplayVocals()
@@ -407,7 +532,6 @@ class FreeplayState extends MusicBeatState
 		#end
 
 		PlayState.storyDifficulty = curDifficulty;
-		diffText.text = '< ' + DifficultyUtil.getCurDifficulty() + ' >';
 		positionHighscore();
 	}
 
@@ -508,8 +632,6 @@ class FreeplayState extends MusicBeatState
 
 		scoreBG.scale.x = FlxG.width - scoreText.x + 6;
 		scoreBG.x = FlxG.width - (scoreBG.scale.x / 2);
-		diffText.x = Std.int(scoreBG.x + (scoreBG.width / 2));
-		diffText.x -= diffText.width / 2;
 	}
 }
 

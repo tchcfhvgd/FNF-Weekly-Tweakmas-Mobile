@@ -64,8 +64,10 @@ function onEvent(eventName){
         jonesy.animation.play('look');
         game.triggerEventNote('Play Animation', 'shocked', 'bf');
         game.triggerEventNote('Play Animation', 'shock', 'dad');
+        game.triggerEventNote('Play Animation', 'hey', 'gf');
         game.boyfriend.skipDance = true;
         game.dad.skipDance = true;
+        game.gf.skipDance = true;
         game.isCameraOnForcedPos = true;
         FlxTween.tween(game.camFollow, {x: 1500, y: 800}, 0.25, {ease: FlxEase.smootherStepInOut});
         game.defaultCamZoom = 0.45;

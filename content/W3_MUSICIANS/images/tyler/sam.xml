@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sam.png"><SubTexture name="sam boil0000" x="151" y="0" width="146" height="214" frameX="-2" frameY="-3" frameWidth="151" frameHeight="217" />
+<SubTexture name="sam boil0001" x="0" y="0" width="151" height="216" frameX="0" frameY="0" frameWidth="151" frameHeight="217" />
+</TextureAtlas>

@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "All Night",
+        "expandBeat" : 28,
+		"duration": 4
+    },
+    "credits" : {
+        "music" : ["Zykrom", "Scrumbo_"],
+        "chart" : ["KyeVL"],
+        "art" : ["Marco Antonio"],
+        "code" : ["DuskieWhy"],
+        "va" : null
+    }
+}

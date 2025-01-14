@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 4,
+			"anim": "idle",
+			"indices": [],
+			"name": "igorIDLE"
+		},
+		{
+			"offsets": [
+				1,
+				-68
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": true,
+			"fps": 4,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "igorDOWN"
+		},
+		{
+			"offsets": [
+				23,
+				-66
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": true,
+			"fps": 4,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "igorLEFT"
+		},
+		{
+			"offsets": [
+				-13,
+				-27
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": true,
+			"fps": 4,
+			"anim": "singUP",
+			"indices": [],
+			"name": "igorUP"
+		},
+		{
+			"offsets": [
+				-24,
+				-52
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": true,
+			"fps": 4,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "igorRIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tyler",
+	"position": [
+		0,
+		570
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		160,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 2.5
+}

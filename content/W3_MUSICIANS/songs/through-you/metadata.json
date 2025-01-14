@@ -1,0 +1,14 @@
+{
+    "card" : {
+        "name" : "Through You",
+        "expandBeat" : 0,
+		"duration": 3
+    },
+    "credits" : {
+        "music" : ["Biddle3", "Scrumbo_", "Kreagato"],
+        "chart" : ["DuskieWhy", "Srife5"],
+        "art" : ["alphalul"],
+        "code" : ["DuskieWhy"],
+        "va" : ["Tyler, The Creator"]
+    }
+}

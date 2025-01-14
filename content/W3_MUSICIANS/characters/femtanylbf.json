@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "token bf idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				62,
+				-22
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "token bf left0"
+		},
+		{
+			"offsets": [
+				-10,
+				-80
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "token bf down0"
+		},
+		{
+			"offsets": [
+				7,
+				21
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "token bf up0"
+		},
+		{
+			"offsets": [
+				-56,
+				-46
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "token bf right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/femtanylbf",
+	"position": [
+		40,
+		280
+	],
+	"healthicon": "femtanylbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		201,
+		191,
+		194
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
