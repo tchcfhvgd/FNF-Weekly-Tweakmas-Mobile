@@ -4251,7 +4251,7 @@ class PlayState extends MusicBeatState
 				{
 					if (gf != null)
 					{
-						if(!note.isSustainNote && basegameHoldHandling){
+						if(basegameHoldHandling && !note.isSustainNote || !basegameHoldHandling){
 							gf.playAnim(animToPlay + daAlt, true);
 							gf.holdTimer = 0;
 						}
