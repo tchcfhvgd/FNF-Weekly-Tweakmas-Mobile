@@ -143,7 +143,7 @@ class Main extends Sprite
 		#end
 		#end
 
-		FlxG.signals.gameResized.add(onResize);
+	        FlxG.signals.gameResized.add(onResize);
 		FlxG.signals.preStateSwitch.add(() -> { 
 			scaleMode.resetSize();
 
@@ -151,10 +151,39 @@ class Main extends Sprite
 				Paths.clearStoredMemory(true);
 				FlxG.bitmap.dumpCache();
 			}
+			clearMajor();
 		});
 		FlxG.signals.postStateSwitch.add(function () {
 			Paths.clearUnusedMemory();
-flashSprite);
+			clearMajor();
+			Main.skipNextDump = false;
+		});
+		FlxG.scaleMode = scaleMode = new FunkinRatioScaleMode();
+
+		#if DISABLE_TRACES
+		haxe.Log.trace = (v:Dynamic, ?infos:haxe.PosInfos) -> {}
+		#end
+	}
+
+	static function onResize(w:Int, h:Int)
+	{
+		final scale:Float = Math.max(1, Math.min(w / FlxG.width, h / FlxG.height));
+		if (fpsVar != null)
+		{
+			fpsVar.scaleX = fpsVar.scaleY = scale;
+		}
+		@:privateAccess if (FlxG.cameras != null) for (i in FlxG.cameras.list)
+			if (i != null && i.filters != null) resetSpriteCache(i.flashSprite);
+		if (FlxG.game != null){
+			resetSpriteCache(FlxG.game);
+			fixShaderSize(FlxG.game);
+		} 
+
+		if (FlxG.cameras == null) return;
+		for (cam in FlxG.cameras.list) {
+			@:privateAccess
+			if (cam != null && (cam._filters != null || cam._filters != []))
+				fixShaderSize(cam.flashSprite);
 		}	
 	}
 
