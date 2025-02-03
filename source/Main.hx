@@ -151,11 +151,9 @@ class Main extends Sprite
 				Paths.clearStoredMemory(true);
 				FlxG.bitmap.dumpCache();
 			}
-			clearMajor();
 		});
 		FlxG.signals.postStateSwitch.add(function () {
 			Paths.clearUnusedMemory();
-			clearMajor();
 			Main.skipNextDump = false;
 		});
 		FlxG.scaleMode = scaleMode = new FunkinRatioScaleMode();
