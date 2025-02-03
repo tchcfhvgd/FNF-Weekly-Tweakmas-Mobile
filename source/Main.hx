@@ -9,14 +9,8 @@ import openfl.Lib;
 import openfl.display.Sprite;
 import openfl.events.Event;
 import openfl.display.StageScaleMode;
-#if cpp
-import cpp.vm.Gc;
-#elseif hl
-import hl.Gc;
-#elseif java
-import java.vm.Gc;
-#elseif neko
-import neko.vm.Gc;
+#if mobile
+import mobile.CopyState;
 #end
 
 class Main extends Sprite
@@ -56,10 +50,33 @@ class Main extends Sprite
 	public static function main():Void
 	{
 		Lib.current.addChild(new Main());
+		#if cpp
+		cpp.NativeGc.enable(true);
+		#elseif hl
+		hl.Gc.enable(true);
+		#end
 	}
 
 	public function new()
 	{
+		#if mobile
+		#if android
+		StorageUtil.requestPermissions();
+		#end
+		Sys.setCwd(StorageUtil.getStorageDirectory());
+		#end
+
+		CrashHandler.init();
+
+		#if windows
+		@:functionCode("
+		#include <windows.h>
+		#include <winuser.h>
+		setProcessDPIAware() // allows for more crisp visuals
+		DisableProcessWindowsGhosting() // lets you move the window and such if it's not responding
+		")
+		#end
+		
 		super();
 
 		if (stage != null)
@@ -84,26 +101,11 @@ class Main extends Sprite
 
 	private function setupGame():Void
 	{
-		var stageWidth:Int = Lib.current.stage.stageWidth;
-		var stageHeight:Int = Lib.current.stage.stageHeight;
-
-		if (zoom == -1)
-		{
-			var ratioX:Float = stageWidth / gameWidth;
-			var ratioY:Float = stageHeight / gameHeight;
-			zoom = Math.min(ratioX, ratioY);
-			gameWidth = Math.ceil(stageWidth / zoom);
-			gameHeight = Math.ceil(stageHeight / zoom);
-		}
-
 		ClientPrefs.loadDefaultKeys();
 
 		var game = new
-			#if CRASH_HANDLER
-			FNFGame
-			#else
 			FlxGame
-			#end(gameWidth, gameHeight, #if !debug Splash #else initialState #end, framerate, framerate, skipSplash, startFullscreen);
+			(gameWidth, gameHeight, #if (mobile && MODS_ALLOWED) !CopyState.checkExistingFiles() ? CopyState : #end Splash, framerate, framerate, skipSplash, startFullscreen);
 
 		// FlxG.game._customSoundTray wants just the class, it calls new from
 		// create() in there, which gets called when it's added to stage
@@ -116,20 +118,29 @@ class Main extends Sprite
 
 		addChild(game);
 
-		#if !mobile
 		fpsVar = new DebugDisplay(10, 3, 0xFFFFFF);
+		#if !mobile
 		addChild(fpsVar);
+		#else
+		FlxG.game.addChild(fpsVar);
+		#end
 		Lib.current.stage.align = "tl";
 		Lib.current.stage.scaleMode = StageScaleMode.NO_SCALE;
 		if (fpsVar != null)
 		{
 			fpsVar.visible = ClientPrefs.showFPS;
 		}
-		#end
 
 		#if html5
 		FlxG.autoPause = false;
 		FlxG.mouse.visible = false;
+		#end
+
+		#if mobile
+		lime.system.System.allowScreenTimeout = ClientPrefs.screensaver;
+		#if android
+		FlxG.android.preventDefaultKeys = [BACK]; 
+		#end
 		#end
 
 		FlxG.signals.gameResized.add(onResize);
@@ -140,39 +151,10 @@ class Main extends Sprite
 				Paths.clearStoredMemory(true);
 				FlxG.bitmap.dumpCache();
 			}
-			clearMajor();
 		});
 		FlxG.signals.postStateSwitch.add(function () {
 			Paths.clearUnusedMemory();
-			clearMajor();
-			Main.skipNextDump = false;
-		});
-		FlxG.scaleMode = scaleMode = new FunkinRatioScaleMode();
-
-		#if DISABLE_TRACES
-		haxe.Log.trace = (v:Dynamic, ?infos:haxe.PosInfos) -> {}
-		#end
-	}
-
-	static function onResize(w:Int, h:Int)
-	{
-		final scale:Float = Math.max(1, Math.min(w / FlxG.width, h / FlxG.height));
-		if (fpsVar != null)
-		{
-			fpsVar.scaleX = fpsVar.scaleY = scale;
-		}
-		@:privateAccess if (FlxG.cameras != null) for (i in FlxG.cameras.list)
-			if (i != null && i.filters != null) resetSpriteCache(i.flashSprite);
-		if (FlxG.game != null){
-			resetSpriteCache(FlxG.game);
-			fixShaderSize(FlxG.game);
-		} 
-
-		if (FlxG.cameras == null) return;
-		for (cam in FlxG.cameras.list) {
-			@:privateAccess
-			if (cam != null && (cam._filters != null || cam._filters != []))
-				fixShaderSize(cam.flashSprite);
+flashSprite);
 		}	
 	}
 
@@ -198,140 +180,4 @@ class Main extends Sprite
 			}
 		}
 	}
-
-	public static function clearMajor() {
-		#if cpp
-		Gc.run(true);
-		Gc.compact();
-		#elseif hl
-		Gc.major();
-		#elseif (java || neko)
-		Gc.run(true);
-		#end
-	}
 }
-
-#if CRASH_HANDLER
-class FNFGame extends FlxGame
-{
-	private static function crashGame()
-	{
-		null.draw();
-	}
-
-	/**
-	 * Used to instantiate the guts of the flixel game object once we have a valid reference to the root.
-	 */
-	override function create(_):Void
-	{
-		try
-		{
-			_skipSplash = true;
-			super.create(_);
-		}
-		catch (e)
-		{
-			onCrash(e);
-		}
-	}
-
-	override function onFocus(_):Void
-	{
-		try
-		{
-			super.onFocus(_);
-		}
-		catch (e)
-		{
-			onCrash(e);
-		}
-
-	}
-
-	override function onFocusLost(_):Void
-	{
-		try
-		{
-			super.onFocusLost(_);
-		}
-		catch (e)
-		{
-			onCrash(e);
-		}
-
-	}
-
-	/**
-	 * Handles the `onEnterFrame` call and figures out how many updates and draw calls to do.
-	 */
-	override function onEnterFrame(_):Void
-	{
-		try
-		{
-			super.onEnterFrame(_);
-		}
-		catch (e)
-		{
-			onCrash(e);
-		}
-
-	}
-
-	/**
-	 * This function is called by `step()` and updates the actual game state.
-	 * May be called multiple times per "frame" or draw call.
-	 */
-	override function update():Void
-	{
-		#if CRASH_TEST
-		if (FlxG.keys.justPressed.F9) crashGame();
-		#end
-		try
-		{
-			super.update();
-		}
-		catch (e)
-		{
-			onCrash(e);
-		}
-
-	}
-
-	/**
-	 * Goes through the game state and draws all the game objects and special effects.
-	 */
-	override function draw():Void
-	{
-		try
-		{
-			super.draw();
-		}
-		catch (e)
-		{
-			onCrash(e);
-		}
-
-	}
-
-	private final function onCrash(e:haxe.Exception):Void
-	{
-		var emsg:String = "";
-		for (stackItem in haxe.CallStack.exceptionStack(true))
-		{
-			switch (stackItem)
-			{
-				case FilePos(s, file, line, column):
-					emsg += file + " (line " + line + ")\n";
-				default:
-					Sys.println(stackItem);
-					trace(stackItem);
-			}
-		}
-
-
-		final crashReport = 'Error caught:' + e.message + '\nCallstack:\n' + emsg;
-
-		FlxG.switchState(new funkin.backend.FallbackState(crashReport,()->FlxG.switchState(()->new WeeklyMainMenuState())));
-	}
-}
-#end
