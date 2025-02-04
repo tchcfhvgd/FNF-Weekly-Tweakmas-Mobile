@@ -223,6 +223,8 @@ class FreeplayState extends MusicBeatState
 			changeDiff();
 		}
 		super.create();
+		
+		addTouchPad("LEFT_FULL", "A_B_C_X_Y_Z");
 		callOnScript('onCreatePost', []);
 	}
 
@@ -230,6 +232,8 @@ class FreeplayState extends MusicBeatState
 	{
 		changeSelection(0, false);
 		persistentUpdate = true;
+		removeTouchPad();
+		addTouchPad("LEFT_FULL", "A_B_C_X_Y_Z");
 		super.closeSubState();
 	}
 
@@ -299,7 +303,7 @@ class FreeplayState extends MusicBeatState
 			positionHighscore();
 
 			var shiftMult:Int = 1;
-			if (FlxG.keys.pressed.SHIFT) shiftMult = 3;
+			if (FlxG.keys.pressed.SHIFT || touchPad.buttonZ.pressed) shiftMult = 3;
 
 			if (songs.length > 1)
 			{
@@ -358,12 +362,12 @@ class FreeplayState extends MusicBeatState
 				FlxG.switchState(new WeeklyMainMenuState());
 			}
 
-			if (FlxG.keys.justPressed.CONTROL)
+			if (FlxG.keys.justPressed.CONTROL || touchPad.buttonC.justPressed)
 			{
-				persistentUpdate = false;
+				touchPad.active = touchPad.visible = persistentUpdate = false;
 				openSubState(new GameplayChangersSubstate());
 			}
-			else if (FlxG.keys.justPressed.SPACE)
+			else if (FlxG.keys.justPressed.SPACE || touchPad.buttonX.justPressed)
 			{
 				if (instPlaying != curSelected)
 				{
@@ -426,9 +430,9 @@ class FreeplayState extends MusicBeatState
 
 				destroyFreeplayVocals();
 			}
-			else if (controls.RESET)
+			else if (controls.RESET || touchPad.buttonY.justPressed)
 			{
-				persistentUpdate = false;
+				touchPad.active = touchPad.visible = persistentUpdate = false;
 				openSubState(new ResetScoreSubState(songs[curSelected].songName, curDifficulty, songs[curSelected].songCharacter));
 				FlxG.sound.play(Paths.sound('scrollMenu'));
 			}
