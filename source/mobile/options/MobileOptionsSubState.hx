@@ -23,8 +23,7 @@
 package mobile.options;
 
 import flixel.input.keyboard.FlxKey;
-import options.BaseOptionsMenu;
-import options.Option;
+import funkin.data.options.*;
 #if sys
 import sys.io.File;
 #end
@@ -46,10 +45,6 @@ class MobileOptionsSubState extends BaseOptionsMenu
 			storageTypes = storageTypes.concat(externalPaths); #end
 		title = 'Mobile Options';
 		rpcTitle = 'Mobile Options Menu'; // for Discord Rich Presence, fuck it
-
-		option = new Option('Extra Controls', 'Select how many extra buttons you prefer to have?\nThey can be used for mechanics with LUA or HScript.',
-			'extraButtons', 'string', 'NONE', exControlTypes);
-		addOption(option);
 
 		option = new Option('Mobile Controls Opacity',
 			'Selects the opacity for the mobile buttons (careful not to put it at 0 and lose track of your buttons).', 'controlsAlpha', 'percent', 60);
@@ -80,12 +75,6 @@ class MobileOptionsSubState extends BaseOptionsMenu
 				'hitboxPos', 'bool', true);
 			addOption(option);
 		}
-
-		#if android
-		option = new Option('Storage Type', 'Which folder Psych Engine should use?\n(CHANGING THIS MAKES DELETE YOUR OLD FOLDER!!)', 'storageType', 'string',
-			'EXTERNAL_DATA', storageTypes);
-		addOption(option);
-		#end
 
 		super();
 	}
