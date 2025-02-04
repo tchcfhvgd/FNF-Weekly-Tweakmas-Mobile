@@ -13,12 +13,6 @@ function onCreatePost()
     game.snapCamFollowToPos(bg.x + (bg.width / 2), bg.y + (bg.height / 2));
     modManager.setValue("transformX", 75, 0);
     modManager.setValue("transformX", -75, 1);
-    
-    if (ClientPrefs.shadersEnabled) {
-        var vhs:FlxShader = newShader('vhs');
-        var filter:ShaderFilter = new ShaderFilter(vhs); // I'll rewrite this slightly to make it to use an for i loop
-        for(c in [game.camGame, game.camHUD, game.camOther]) c.setFilters([filter]);  
-    }
 
     FlxG.scaleMode.width = 960;    
     FlxG.camera.width = 960;
