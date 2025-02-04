@@ -65,7 +65,7 @@ function presongCutscene()
 
 function onUpdatePost()
 {
-    if (FlxG.keys.justPressed.ENTER && !isDialogueFinished) 
+    if (FlxG.mouse.justPressed && !isDialogueFinished) 
     {
         FlxG.sound.play(Paths.sound('personasfx'));
         nextDialogue();
