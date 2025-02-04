@@ -63,7 +63,7 @@ class WeeklyMainMenuState extends MusicBeatState
 
 	override function create()
 	{
-		FlxG.mouse.visible = true;
+		FlxG.mouse.visible = false;
 
 		Conductor.bpm = 102;
 		trace(Conductor.bpm);
