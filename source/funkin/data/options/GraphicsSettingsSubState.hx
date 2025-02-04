@@ -25,6 +25,9 @@ class GraphicsSettingsSubState extends BaseOptionsMenu
 			'shadersEnabled', 'bool', true);
 		addOption(option);
 
+		var option:Option = new Option('GPU Caching', 'If checked, GPU caching will be enabled.', 'gpuCaching', 'bool', false);
+		addOption(option);
+
 		var option:Option = new Option('Anti-Aliasing', 'If unchecked, disables anti-aliasing, increases performance\nat the cost of sharper visuals.',
 			'globalAntialiasing', 'bool', true);
 		option.showBoyfriend = true;
