@@ -36,6 +36,8 @@ class Init extends FlxState
 
 		ClientPrefs.loadPrefs();
 
+		mobile.MobileData.init();
+
 		funkin.data.Highscore.load();
 
 		funkin.objects.video.FunkinVideoSprite.init();
