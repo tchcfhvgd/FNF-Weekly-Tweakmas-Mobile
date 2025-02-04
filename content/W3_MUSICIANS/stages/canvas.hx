@@ -6,7 +6,6 @@ var cone:FlxSprite;
 var torus:FlxSprite;
 var sphere:FlxSprite;
 var tetoRevealed:Bool = false;
-var vhs:FlxShader;
 var filter:ShaderFilter;
 var blackScreen:FlxSprite;
 var tetoPoseSuffix:String = '';
@@ -14,11 +13,6 @@ var singAnimations:Array<String> = ['singLEFT', 'singDOWN', 'singUP', 'singRIGHT
 
 function onLoad()
 {   
-    if (ClientPrefs.shadersEnabled) {
-        vhs = newShader('vhs');
-        filter = new ShaderFilter(vhs);
-    }
-    
     BG = new FlxSprite (125,-100);
     BG.loadGraphic(Paths.image('jamiepaige/bg'));
     BG.antialiasing = ClientPrefs.globalAntialiasing;
@@ -149,20 +143,9 @@ function onEvent(name:String, v1:String, v2:String)
                     switch (v2)
                     {
                         case 'on':
-                            if (ClientPrefs.shadersEnabled) {
-                                game.camGame._filters = [];
-                                game.camGame._filters.push(filter);
-                                game.camHUD._filters = [];
-                                game.camHUD._filters.push(filter);
-                                game.camOther._filters = [];
-                                game.camOther._filters.push(filter);
-                            }
+                           
                         case 'off':
-                            if (ClientPrefs.shadersEnabled) {
-                                game.camGame._filters = [];
-                                game.camHUD._filters = [];
-                                game.camOther._filters = [];
-                            }
+                      
                     }
                 case 'middle cam':
                     switch (v2)
